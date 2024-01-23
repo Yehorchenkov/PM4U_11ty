@@ -1,0 +1,4 @@
+Sitemap: https://pm4u.priestoroveplanovanie.sk/sitemap.xml
+
+User-agent: *
+Disallow:
