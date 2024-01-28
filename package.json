@@ -16,5 +16,8 @@
     "@11ty/eleventy-img": "^3.1.8",
     "eleventy-plugin-gen-favicons": "^1.1.2",
     "eslint": "^8.56.0"
+  },
+  "dependencies": {
+    "pagefind": "^1.0.4"
   }
 }

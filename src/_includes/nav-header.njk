@@ -1,0 +1,53 @@
+{% include "search-ui.njk" %}
+
+<script src="/assets/nav-burger.js"></script>
+
+<nav class="navbar is-white has-shadow" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item center" href="/">
+            <img src="" width="160px" height="36px">
+        </a>        
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+
+    <div id="navMenu" class="navbar-menu">
+        <div class="navbar-start">
+            <div class="navbar-item has-text-weight-bold">
+                {{ site.title }}
+            </div>
+        </div>
+        <div class="navbar-end">            
+            <a class="navbar-item" href="/">
+                <span class="icon">
+                    <i class="fas fa-home"></i>                    
+                </span>
+            </a>
+            <a class="navbar-item" href="/about-e-learning">
+                About platform
+            </a>            
+            
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Stakeholders blocks
+                </a>
+                <div class="navbar-dropdown is-right">
+                    {% for key, val in groups %}
+                        <a class="navbar-item" href="{{ val.ref }}">
+                            {{ val.name }}
+                        </a>
+                    {% endfor %}                               
+                </div>
+            </div>
+            
+            <a class="navbar-item js-modal-search" data-target="modal-js-search">
+                <span class="icon">
+                    <i class="fas fa-search"></i>
+                </span>
+            </a>             
+        </div>
+    </div>
+</nav>
