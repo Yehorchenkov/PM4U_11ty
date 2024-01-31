@@ -15,12 +15,13 @@
 
 </head>
 <body>
-    {% include "nav-header.njk" %}
-    
-    <main class="hero is-fullheight">
+        
+    <section class="hero is-fullheight">
+        {% include "nav-header.njk" %}
+        
         {{ content | safe }}
 
         {% include "footer.njk" %}
-    </main>    
+    </section>    
 </body>
 </html>
