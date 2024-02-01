@@ -37,3 +37,8 @@
 	  justify-content: center;
 	}
 }
+
+/* Update footer padding */
+.footer {	
+	padding: 3rem 1.5rem 3rem;
+}
