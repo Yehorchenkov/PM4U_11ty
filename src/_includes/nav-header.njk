@@ -2,39 +2,6 @@
 
 <script src="/assets/nav-burger.js"></script>
 
-{# <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-            <span aria-hidden="true"></span>
-        </a>
-    </div>
-    <div class="navbar-menu" id="navMenu">
-        <div class="columns is-mobile is-marginless heading has-text-weight-bold">
-            <div class="column left">
-                <a class="navbar-item" href="/">
-                    <span class="icon">
-                        <i class="fas fa-home"></i>                    
-                    </span>
-                </a>
-            </div>
-            <div class="column center desktop">
-                <p class="navbar-item has-text-black">MODEL S </p>
-                <p class="navbar-item has-text-black">MODEL X </p>
-                <p class="navbar-item has-text-black">MODEL 3 </p>			
-            </div>
-            <div class="column right">
-                <a class="navbar-item js-modal-search" data-target="modal-js-search">
-                    <span class="icon">
-                        <i class="fas fa-search"></i>
-                    </span>
-                </a>            
-            </div>
-        </div> 
-    </div>       
-</nav> #}
-
 <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item center" href="/">
@@ -57,10 +24,10 @@
                       
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">
-                    Workshops
+                    Events
                 </a>
                 <div class="navbar-dropdown">
-                    {% for key, val in workshops %}
+                    {% for key, val in events %}
                         <a class="navbar-item" href="{{ val.ref }}">
                             {{ val.title }}
                         </a>

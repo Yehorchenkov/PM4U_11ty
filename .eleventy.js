@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPlugin(faviconsPlugin, {});
 
     // Image shortcode
-    eleventyConfig.addShortcode("image", async function(src, alt, width, sizes) {
+    eleventyConfig.addShortcode("image", async function(src, alt, width) {
       const widths = width ? [width, width * 2] : [300, 800, "auto"];
       let metadata = await Image(`./src/images/${src}`, {
         widths: widths,
