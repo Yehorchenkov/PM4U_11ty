@@ -13,9 +13,9 @@ layout: "layouts/base.njk"
             </h1>
             
             {% if events[event].subtitle %}
-                <h2 class="subtitle has-text-info">
+                <p class="subtitle is-size-3 has-text-info">
                     {{ events[event].subtitle | safe }}
-                </h2>
+                </p>
             {% endif %}
            
            {{ content | safe }}
