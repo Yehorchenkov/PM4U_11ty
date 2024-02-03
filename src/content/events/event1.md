@@ -3,7 +3,7 @@ layout: layouts/page-toc.njk
 event: "event1"
 ---
 
-<h2 class="subtitle">Workshop details</h2>
+<h2 class="subtitle" id="details">Workshop details</h2>
 
 Explore the important role of project management in the context of EU urban transformation, focusing on smart cities and a data-driven society. Delve into key topics such as the significance of project management tools in urban development, best practices encompassing information technologies and methodological aspects, and strategies for enhancing project management effectiveness. Participants will gain insights into project management practices tailored for communication and stakeholders management. Additionally, the workshop explores risk management, crucial for navigating uncertainties inherent in urban (territorial) development projects. Join us for a comprehensive exploration of project management's crucial role in modern urban development, incorporating global best practices and tailored strategies for effective communication, stakeholder engagement, and risk mitigation within smart cities and a data-driven society.
 Topics of interest include, but are not limited to:
@@ -13,7 +13,7 @@ Project management practices for communication management in data-driven society
 Project management practices for stakeholders management in urban transformation
 Risk management, project management within high uncertainty in urban development of smart cities
 
-<h2 class="subtitle">Terms and conditions</h2>
+<h2 class="subtitle" id="terms">Terms and conditions</h2>
 
 - Workshop format is hybrid.
 - Registration:
@@ -23,7 +23,7 @@ Risk management, project management within high uncertainty in urban development
 - Workshop date -  April 19, 2024
 - Participation in the workshop is free.
 
-<h2 class="subtitle">Programme Committee</h2>
+<h2 class="subtitle"id="prg-committee">Programme Committee</h2>
 
 1.	Nataliia Yehorchenkova, Spatial Planning department, Institute of Management, Slovak University of Technology in Bratislava, Ukraine
 2.	Verenych Olena, faculty of automatization and information technology,  Kyiv National University of Construction and Architecture, Ukraine
@@ -34,7 +34,7 @@ Risk management, project management within high uncertainty in urban development
 7.	Kresimir Fertalj, Full professor, Department of Applied Computing, University of Zagreb, Croatia
 8.	Oksana Mulesa, Professor of Department of Software Systems, Uzhhorod National University
 
-<h2 class="subtitle">Organizing Committee</h2>
+<h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 
 - Yehorchenkova Nataliia, Slovak University of Technology in Bratislava
 - Yehorchenkov Oleksii, Slovak University of Technology in Bratislava
@@ -46,7 +46,7 @@ Risk management, project management within high uncertainty in urban development
 - Oleksandr Kuchansky, Astana IT university
 - Verenych Olena, Kyiv National University of Construction and Architecture
 
-<h2 class="subtitle">The programme of the Workshop</h2>
+<h2 class="subtitle" id="programme">The programme of the Workshop</h2>
 
 Agenda
 
@@ -70,7 +70,7 @@ Agenda
 
 16:00 pm - 17:15 pm: Enhancing Project Management. Case Studies in Smart Cities and Data-Driven Society Initiatives
 
-<h2 class="subtitle">Submission</h2>
+<h2 class="subtitle" id="submission">Submission</h2>
 
 The official workshop language is English. All the papers need to be written and presented in English as well.
 Materials of workshop will be indexed in the Scopus database. All submissions must comply with the format guidelines. A standard paper should be not less than 10 pages including figures and references. All accepted papers will be published in the electronic conference proceedings. All submissions will be evaluated by at least three members of the international Programme Committee. Furthermore, the accepted papers must be presented at the conference at least by one of the authors.
@@ -79,13 +79,12 @@ Paper template: <https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRc
 
 All papers for participation in the conference (in DOC format) should be submitted via CMT Microsoft system:
 
-<h2 class="subtitle">Workshop Proceedings</h2>
+<h2 class="subtitle" id="proceedings">Workshop Proceedings</h2>
 
 The materials of the Workshop have been published in the open-access publication service [CEUR-WS.org](https://ceur-ws.org/)
 The materials of the Workshop have been indexed by Scopus.
 The materials that will not include to CEUR proceedings might be publish in special issue of a professional journal “Management of Development of Complex Systems”.
 
-<h2 class="subtitle">Contact</h2>
+<h2 class="subtitle" id="contacts">Contact</h2>
 
-If you have any questions, do not hesitate to contact us by email:  pm4u.event@gmail.com
-
+If you have any questions, do not hesitate to contact us by email: <pm4u.event@gmail.com>

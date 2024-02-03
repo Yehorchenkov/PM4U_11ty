@@ -4,6 +4,9 @@ const Image = require("@11ty/eleventy-img");
 
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 
+// Table of Content for markdown
+const pluginTOC = require('eleventy-plugin-toc');
+
 // search
 const { execSync } = require('child_process');
 
@@ -22,6 +25,12 @@ module.exports = function(eleventyConfig) {
 
     // favicon plugin
     eleventyConfig.addPlugin(faviconsPlugin, {});
+
+    eleventyConfig.addPlugin(pluginTOC, {        
+      ul: true,
+      wrapper: 'toc',
+      wrapperClass: 'menu-list'     
+    });
 
     // Image shortcode
     eleventyConfig.addShortcode("image", async function(src, alt, width) {

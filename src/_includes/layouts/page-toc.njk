@@ -2,6 +2,8 @@
 layout: "layouts/base.njk"
 ---
 
+{% include "back-button.njk" %}
+
 <div class="columns mt-5">
     <div class="column is-8 is-offset-2">                
         <div class="content m-5 has-text-justified" id="contents" data-pagefind-body>
@@ -25,13 +27,13 @@ layout: "layouts/base.njk"
         <aside class="menu menu-stick mt-3 is-hidden-touch">        
             
             <div class="is-normal is-size-6" id="toc">
-                {# {{ content | safe }} #}
+                {{ content | toc | safe }}
             </div>
         </aside>
     </div>
 
 </div>
 
-<script src="/assets/createToc.js"></script>
+{# <script src="/assets/createToc.js"></script> #}
 
 <script src="/assets/highlight-toc.js"></script>

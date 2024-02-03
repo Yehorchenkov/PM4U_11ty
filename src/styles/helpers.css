@@ -78,7 +78,12 @@
 }
 
 /*bulma selector is-active background color*/
-.menu-list a.is-active {
-	background-color: #00D1B2;
+.menu-list a.is-active,
+.menu-list a.is-active:hover {
+	background-color: #3E8ED0;
 	color: #fff;
+}
+
+.menu-list a:hover {
+	background-color: #fff;		
 }

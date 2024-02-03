@@ -52,7 +52,7 @@
 
 <script src="/assets/nav-burger.js"></script>
 
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar is-light" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item center" href="/">
             <img src="/img-original/SPECTRA_logo_1nobackground.png" width="160px" height="36px">
@@ -100,6 +100,14 @@
 </nav>
         
         
+<button onclick="topFunction()" id="back_btn" class="button is-info back-to-top-button is-hidden-mobile">
+    <span class="icon">
+        <i class="fa-solid fa-arrow-up"></i>
+    </span>
+</button>
+
+<script src="/assets/back-button.js"></script>
+
 <div class="columns mt-5">
     <div class="column is-8 is-offset-2">                
         <div class="content m-5 has-text-justified" id="contents" data-pagefind-body>
@@ -114,7 +122,7 @@
                 </h2>
             
            
-           <h2 class="subtitle">Workshop details</h2>
+           <h2 class="subtitle" id="details">Workshop details</h2>
 <p>Explore the important role of project management in the context of EU urban transformation, focusing on smart cities and a data-driven society. Delve into key topics such as the significance of project management tools in urban development, best practices encompassing information technologies and methodological aspects, and strategies for enhancing project management effectiveness. Participants will gain insights into project management practices tailored for communication and stakeholders management. Additionally, the workshop explores risk management, crucial for navigating uncertainties inherent in urban (territorial) development projects. Join us for a comprehensive exploration of project management's crucial role in modern urban development, incorporating global best practices and tailored strategies for effective communication, stakeholder engagement, and risk mitigation within smart cities and a data-driven society.
 Topics of interest include, but are not limited to:
 Best world project management practices for urban transformation of smart cities and data-driven society
@@ -122,7 +130,7 @@ Program and portfolio management of urban transformation in smart cities
 Project management practices for communication management in data-driven society
 Project management practices for stakeholders management in urban transformation
 Risk management, project management within high uncertainty in urban development of smart cities</p>
-<h2 class="subtitle">Terms and conditions</h2>
+<h2 class="subtitle" id="terms">Terms and conditions</h2>
 <ul>
 <li>Workshop format is hybrid.</li>
 <li>Registration:</li>
@@ -132,7 +140,7 @@ Risk management, project management within high uncertainty in urban development
 <li>Workshop date -  April 19, 2024</li>
 <li>Participation in the workshop is free.</li>
 </ul>
-<h2 class="subtitle">Programme Committee</h2>
+<h2 class="subtitle"id="prg-committee">Programme Committee</h2>
 <ol>
 <li>Nataliia Yehorchenkova, Spatial Planning department, Institute of Management, Slovak University of Technology in Bratislava, Ukraine</li>
 <li>Verenych Olena, faculty of automatization and information technology,  Kyiv National University of Construction and Architecture, Ukraine</li>
@@ -143,7 +151,7 @@ Risk management, project management within high uncertainty in urban development
 <li>Kresimir Fertalj, Full professor, Department of Applied Computing, University of Zagreb, Croatia</li>
 <li>Oksana Mulesa, Professor of Department of Software Systems, Uzhhorod National University</li>
 </ol>
-<h2 class="subtitle">Organizing Committee</h2>
+<h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 <ul>
 <li>Yehorchenkova Nataliia, Slovak University of Technology in Bratislava</li>
 <li>Yehorchenkov Oleksii, Slovak University of Technology in Bratislava</li>
@@ -155,7 +163,7 @@ Risk management, project management within high uncertainty in urban development
 <li>Oleksandr Kuchansky, Astana IT university</li>
 <li>Verenych Olena, Kyiv National University of Construction and Architecture</li>
 </ul>
-<h2 class="subtitle">The programme of the Workshop</h2>
+<h2 class="subtitle" id="programme">The programme of the Workshop</h2>
 <p>Agenda</p>
 <p>8:30 am - 9:00 am: Registration and Welcome Coffee</p>
 <p>9:00 am - 9:45 am: Welcome words</p>
@@ -167,17 +175,17 @@ Risk management, project management within high uncertainty in urban development
 <p>14:30 pm - 15:45 pm: Project Management Best Practices: Information Technologies &amp; Methodological Aspects</p>
 <p>15:45 pm - 16:00 pm: Coffee Break</p>
 <p>16:00 pm - 17:15 pm: Enhancing Project Management. Case Studies in Smart Cities and Data-Driven Society Initiatives</p>
-<h2 class="subtitle">Submission</h2>
+<h2 class="subtitle" id="submission">Submission</h2>
 <p>The official workshop language is English. All the papers need to be written and presented in English as well.
 Materials of workshop will be indexed in the Scopus database. All submissions must comply with the format guidelines. A standard paper should be not less than 10 pages including figures and references. All accepted papers will be published in the electronic conference proceedings. All submissions will be evaluated by at least three members of the international Programme Committee. Furthermore, the accepted papers must be presented at the conference at least by one of the authors.</p>
 <p>Paper template: <a href="https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&amp;ouid=105631173934606727224&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&amp;ouid=105631173934606727224&amp;rtpof=true&amp;sd=true</a></p>
 <p>All papers for participation in the conference (in DOC format) should be submitted via CMT Microsoft system:</p>
-<h2 class="subtitle">Workshop Proceedings</h2>
+<h2 class="subtitle" id="proceedings">Workshop Proceedings</h2>
 <p>The materials of the Workshop have been published in the open-access publication service <a href="https://ceur-ws.org/">CEUR-WS.org</a>
 The materials of the Workshop have been indexed by Scopus.
 The materials that will not include to CEUR proceedings might be publish in special issue of a professional journal “Management of Development of Complex Systems”.</p>
-<h2 class="subtitle">Contact</h2>
-<p>If you have any questions, do not hesitate to contact us by email:  pm4u.event@gmail.com</p>
+<h2 class="subtitle" id="contacts">Contact</h2>
+<p>If you have any questions, do not hesitate to contact us by email: <a href="mailto:pm4u.event@gmail.com">pm4u.event@gmail.com</a></p>
 
 
         </div>
@@ -187,14 +195,16 @@ The materials that will not include to CEUR proceedings might be publish in spec
         <aside class="menu menu-stick mt-3 is-hidden-touch">        
             
             <div class="is-normal is-size-6" id="toc">
-                
+                <toc class="menu-list" >
+        <ul><li><a href="#details">Workshop details</a></li><li><a href="#terms">Terms and conditions</a></li><li><a href="#prg-committee">Programme Committee</a></li><li><a href="#org-committee">Organizing Committee</a></li><li><a href="#programme">The programme of the Workshop</a></li><li><a href="#submission">Submission</a></li><li><a href="#proceedings">Workshop Proceedings</a></li><li><a href="#contacts">Contact</a></li></ul>
+      </toc>
             </div>
         </aside>
     </div>
 
 </div>
 
-<script src="/assets/createToc.js"></script>
+
 
 <script src="/assets/highlight-toc.js"></script>
 
@@ -203,14 +213,21 @@ The materials that will not include to CEUR proceedings might be publish in spec
     <div class="columns">
         <div class="column">
             <article class="media">
-                <a href="/">
-                    <p class="is-size-6"><strong>PM4U project webpage</strong></p>
-                </a>
-            </article>
+                <figure class="meida-left mr-2">
+                    <p class="image">
+                        <img style="width: 180px;" src="/img-original/STU-nvf.png" alt="STU logo">
+                    </p>
+                </figure>
+                <div class="media-content">
+                    <div class="content">
+                        <a target="_blank" href="https://www.stuba.sk/">Slovak University of Technology in Bratislava</a>
+                    </div>
+                </div>
+            </article>         
             <article class="media">
                 <figure class="meida-left mr-2">
-                    <p class="image is-32x32">
-                        <img src="/img-original/spectra_icon_nobackground.png" alt="Spectra CE logo">
+                    <p class="image">
+                        <img style="width: 64px;" src="/img-original/spectra_icon_nobackground.png" alt="Spectra CE logo">
                     </p>
                 </figure>
                 <div class="media-content">
@@ -218,7 +235,7 @@ The materials that will not include to CEUR proceedings might be publish in spec
                         <a target="_blank" href="https://spectra-perseus.org/">Spectra Centre of Excellence</a>
                     </div>
                 </div>                
-            </article>                     
+            </article>                              
         </div>
         <div class="column">
             <p class="mb-1">Projects</p>            
