@@ -1,9 +1,16 @@
 {
-    "event1": {
+    "event_utpm": {
         "title": "Project management in the context of EU urban transformation",
         "subtitle": "Smart Cities and Data-Driven Society",
         "description": "Event 1 description",
         "date": "19-04-2024",
-        "ref": "/content/events/event1"       
+        "ref": "/content/events/event-utpm"       
+    },
+    "event_itpm": {
+        "title": "V International Workshop “IT Project Management",
+        "subtitle": "ITPM 2024",        
+        "description": "Event 1 description",
+        "date": "22-05-2024",
+        "ref": "/content/events/event-itpm"
     }
 }

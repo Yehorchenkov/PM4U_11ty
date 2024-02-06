@@ -1,6 +1,6 @@
 ---
 layout: layouts/page-toc.njk
-event: "event1"
+event: "event_utpm"
 ---
 
 <h2 class="subtitle" id="details">Workshop details</h2>
@@ -21,7 +21,7 @@ Topics of interest include, but are not limited to:
 - Workshop format is *hybrid.*
 - *Registration:* <https://forms.gle/6PYnDnnfR3eqZmfY7>
 - *On-site* part of the worshop will take place on April 19 in Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43.
-- *Paper Submissions Deadline* - March 25, 2024
+- *Paper Submissions Deadline* - March 15, 2024
 - *Notification of Acceptance* - April 10, 2024
 - *Workshop date* -  April 19, 2024
 - *Participation in the workshop is free.*
@@ -86,7 +86,12 @@ All accepted papers will be published in the electronic conference proceedings. 
 
 <https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&ouid=105631173934606727224&rtpof=true&sd=true>
 
-All papers for participation in the conference (in DOC format) should be submitted via CMT Microsoft system:
+All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTPM2024>
+
+Additional requirnments:
+1. no more than 5 authors per article.
+2.	self-citation not more than 20%.
+3.	at least one  author has to have index of in the DBLP database 5 or more.
 
 <h2 class="subtitle" id="proceedings">Workshop Proceedings</h2>
 
