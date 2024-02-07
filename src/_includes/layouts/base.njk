@@ -13,7 +13,18 @@
 
     {% favicons "./src/img-original/pm4u-favicon.png", manifestData={name: '{{ site.title }}' } %}
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGK6Z67459"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-CGK6Z67459');
+    </script>
+
 </head>
+
 <body>
         
     <section class="hero is-fullheight">
