@@ -1,4 +1,6 @@
 ---
+title: "ITPM 2024"
+metatitle: "V International Workshop “IT Project Management” (ITPM 2024)"
 layout: layouts/page-toc.njk
 event: "event_itpm"
 ---

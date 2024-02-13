@@ -1,4 +1,6 @@
 ---
+title: "PM4U Spring Workshop 2024"
+metatitle: "Workshop on Urban Transformation Project Management (UTPM 2024)"
 layout: layouts/page-toc.njk
 event: "event_utpm"
 ---
