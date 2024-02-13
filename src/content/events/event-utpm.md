@@ -30,14 +30,17 @@ Topics of interest include, but are not limited to:
 
 <h2 class="subtitle"id="prg-committee">Programme Committee</h2>
 
-1.	*Nataliia Yehorchenkova*, Spatial Planning department, Institute of Management, Slovak University of Technology in Bratislava, Ukraine
+1.	*Nataliia Yehorchenkova*, researcher, Spatial Planning Department, Slovak University of Technology in Bratislava, Ukraine
 2.	*Verenych Olena*, faculty of automatization and information technology,  Kyiv National University of Construction and Architecture, Ukraine
 3.	*Morozov Viktor*, faculty of information technology, Taras Shevchenko National University of Kyiv, Ukraine
 4.	*Bushuyev Sergey*, head of project department, Kyiv National University of Construction and Architecture, Ukraine
-5.	*Valentino Vranič*, Slovak University of Technology in Bratislava, Slovakia 
-6.	*Kolesnikova Kateryna*, vice-rector for science and research, international IT university, Kazakhstan
-7.	*Kresimir Fertalj*, Full professor, Department of Applied Computing, University of Zagreb, Croatia
-8.	*Oksana Mulesa*, Professor of Department of Software Systems, Uzhhorod National University
+5.	*Valentino Vranič*,  vice-dean for science and research, Faculty of Informatics and Information Technologies,  Slovak University of Technology in Bratislava, Slovakia 
+6.	*Kolesnikova Kateryna*, vice-rector for science and research, International IT University, Kazakhstan
+7.	*Kresimir Fertalj*, full professor, Department of Applied Computing, University of Zagreb, Croatia
+8.	*Oksana Mulesa*, professor of Department of Software Systems, Uzhhorod National University
+9.  *Carsten Wolff*, professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany
+10. *Recker Stefan*, professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany
+11. *Kataieva Yevheniia*, researcher, Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava, Slovakia
 
 <h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 
@@ -90,10 +93,11 @@ All accepted papers will be published in the electronic conference proceedings. 
 
 All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTPM2024>
 
-Additional requirnments:
-1. no more than 5 authors per article.
-2.	self-citation not more than 20%.
-3.	at least one  author has to have index of in the DBLP database 5 or more.
+Additional requirements:
+
+1. No more than 5 authors per article.
+2. Self-citation not exceeding 20%.
+3. At least one author must have an index of 5 or more in the DBLP database.
 
 <h2 class="subtitle" id="proceedings">Workshop Proceedings</h2>
 
