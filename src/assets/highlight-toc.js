@@ -13,7 +13,7 @@ window.addEventListener('scroll', (event) => {
 
     // then iterate backwards, on the first match highlight it and break
     for (let i = anchors.length - 1; i >= 0; i--) {
-      if (scrollTop > anchors[i].offsetTop - 0) { // offsetTop - 0 is the top of the page
+      if (scrollTop > anchors[i].offsetTop - 40) { // offsetTop - 0 is the top of the page
         links[i].classList.add('is-active');
         break;
       }

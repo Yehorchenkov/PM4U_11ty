@@ -8,9 +8,15 @@ layout: "layouts/base.njk"
     <div class="column is-8 is-offset-2">                
         <div class="content m-5 has-text-justified" id="contents" data-pagefind-body>
 
-            <h1 class="title has-text-info">
-                {{ events[event].title | safe }}                
-            </h1>
+            {% if events[event].title %}
+                <h1 class="title has-text-info">
+                    {{ events[event].title | safe }}                
+                </h1>
+            {% else %}
+                <h1 class="title has-text-info">
+                    {{ title | safe }}                
+                </h1>
+            {% endif %}
             
             {% if events[event].subtitle %}
                 <p class="subtitle is-size-3 has-text-info">
