@@ -35,7 +35,7 @@ The theme of the workshop reflects current problems in the field of IT portfolio
 - **Lebkowski Piotr**, Professor, Doctor of Science, AGH University of Science and Technology, Krakow, Poland 
 - **Obradović Volodymyr**, Professor, Doctor of Science, University of Belgrade, Belgrade, Serbia 
 - **Ondrejička Vladimír**, Associate professor, Slovak University of Technology in Bratislava, Bratislava, Slovakia 
-- **Pasichnyk Volodymyr**, professor, Doctor of Science, professor National University "Lviv Polytechnic", Lviv, Ukraine 
+- **Pasichnyk Volodymyr**, professor of Lviv Polytechnic National University, Lviv, Ukraine 
 - **Petryshyn Lubomyr**, professor, Doctor of Science, AGH University of Science and Technology, Krakow, Poland 
 - **Recker Stefan**, professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany 
 - **Romanenkov Yuriy**, professor, Doctor of Science, professor National Aerospace University, Kharkiv Aviation Institute, Kharkiv, Ukraine 
@@ -52,11 +52,11 @@ Secretary of the organizing committee:
 
 **Members of the organizing committee:**
 - **Bushuev Serhiy**, professor, Doctor of Science, head of the Ukrainian Project Management Association "UKRNET", Kyiv, Ukraine
-- **Pasichnyk Volodymyr**, professor, Doctor of Science, professor National University "Lviv Polytechnic", Lviv, Ukraine 
-- **Trach Roman**, professor, Doctor of Science, professor Institute of Civil Engineering Warsaw University of Life Sciences, Warsaw, Poland 
-- **Rutkowska Gabriela**,  Ph.D. Institute of Civil Engineering Warsaw University of Life Sciences,  Warsaw, Poland 
-- **Podlasek Anna**, Ph.D., Institute of Civil Engineering Warsaw University of Life Sciences,  Warsaw, Poland 
-- **Trach Yuliia**, Ph.D., Institute of Civil Engineering Warsaw University of Life Sciences, , Warsaw, Poland 
+- **Pasichnyk Volodymyr**, professor, Doctor of Science, professor of Lviv Polytechnic National University, Lviv, Ukraine 
+- **Trach Roman**, professor, Doctor of Science, professor of Institute of Civil Engineering at Warsaw University of Life Sciences, Warsaw, Poland 
+- **Rutkowska Gabriela**,  Ph.D. Institute of Civil Engineering at Warsaw University of Life Sciences, Warsaw, Poland 
+- **Podlasek Anna**, Ph.D., Institute of Civil Engineering at Warsaw University of Life Sciences,  Warsaw, Poland 
+- **Trach Yuliia**, Ph.D., Institute of Civil Engineering at Warsaw University of Life Sciences, , Warsaw, Poland 
 - **Duda Oleksiy**, associate professor, Ph.D, associate professor of the Ternopil National Technical University named after I. Pulyuya, Ternopil, Ukraine
 
 <h2 class="subtitle" id="purpose">The main purpose</h2>
@@ -91,14 +91,14 @@ Your application must be prepared using Microsoft Word Proceedings <https://view
 
 All papers will be evaluated by at least three members of the International Program Committee. In addition, accepted articles must be presented at the conference by at least one of their authors. All accepted papers will be published in the electronic conference proceedings with ISSN.
 Author’s agreement on publication of the contribution is in open access on CEUR-WS.org.
-All papers for participation in the conference (in DOC format) are submitted via the Easychair system: <https://easychair.org/my/conference?conf=itpm2023#>
+All papers for participation in the conference (in DOC format) are submitted via the Microsoft CMT system: <https://cmt3.research.microsoft.com/>
 
 <h2 class="subtitle" id="important-dates">Important dates:</h2>
 
-- Paper Submission due: 15 March, 2024
+- Paper Submission due:  25 March, 2024
 
-- Notification of pre-acceptance and peer reviewers’ comments: 15 April, 2024
+- Notification of pre-acceptance and peer reviewers’ comments: 25 April, 2024
 
-- Deadline for receiving documents with changes: 25 April, 2024
+- Deadline for receiving documents with changes: 10 May, 2024
 
 - Conference date: 22 May, 2024 
