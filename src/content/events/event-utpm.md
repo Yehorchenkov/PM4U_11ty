@@ -23,10 +23,10 @@ Topics of interest include, but are not limited to:
 - Workshop format is *hybrid.*
 - *Registration:* <https://forms.gle/6PYnDnnfR3eqZmfY7>
 - *On-site* part of the worshop will take place on April 19 in Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43.
-- *Paper Submissions Deadline* - March 15, 2024
+- *Paper Submissions Deadline* - ~~March 15, 2024~~ <b> March 29, 2024 </b>
 - *Notification of Acceptance* - April 10, 2024
 - *Workshop date* -  April 19, 2024
-- *Participation in the workshop is free.*
+- *Participation in the workshop is free of charge.*
 
 <h2 class="subtitle"id="prg-committee">Programme Committee</h2>
 
