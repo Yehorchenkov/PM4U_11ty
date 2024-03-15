@@ -91,7 +91,7 @@ Your application must be prepared using Microsoft Word Proceedings <https://view
 
 All papers will be evaluated by at least three members of the International Program Committee. In addition, accepted articles must be presented at the conference by at least one of their authors. All accepted papers will be published in the electronic conference proceedings with ISSN.
 Author’s agreement on publication of the contribution is in open access on CEUR-WS.org.
-All papers for participation in the conference (in DOC format) are submitted via the Microsoft CMT system: <https://cmt3.research.microsoft.com/>
+All papers for participation in the conference (in DOC format) are submitted via the Microsoft CMT system: <https://cmt3.research.microsoft.com/ITPM2024>
 
 <h2 class="subtitle" id="important-dates">Important dates:</h2>
 
