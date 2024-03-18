@@ -21,6 +21,19 @@
                     <i class="fas fa-home"></i>                    
                 </span>
             </a> #}
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Study
+                </a>
+                <div class="navbar-dropdown">
+                    {% for key, val in study %}
+                        <a class="navbar-item" href="{{ val.ref }}">
+                            {{ val.title }}
+                        </a>
+                    {% endfor %}                               
+                </div>
+            </div>
                       
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">
@@ -35,9 +48,13 @@
                 </div>
             </div>
 
+            <a class="navbar-item" href="/content/blog">
+                Blog
+            </a>
+
             <a class="navbar-item" href="/content/team">
                 Our Team
-            </a>                                
+            </a>
         </div>
         <div class="navbar-end">
             <a class="navbar-item js-modal-search mr-1" data-target="modal-js-search">                

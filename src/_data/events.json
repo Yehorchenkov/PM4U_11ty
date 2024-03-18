@@ -12,12 +12,5 @@
         "description": "Event 1 description",
         "date": "22-05-2024",
         "ref": "/content/events/event-itpm"
-    },
-    "event_spring2024": {
-        "title": "Project and Territory Management",
-        "subtitle": "Spring 2024 Block Week",        
-        "description": "Event 1 description",
-        "date": "11-03-2024:15-03-2024",
-        "ref": "/content/events/spring-2024-block-week"
-    }
+    }    
 }
