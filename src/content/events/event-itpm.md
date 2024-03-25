@@ -81,7 +81,7 @@ All submissions must be original, i.e. not published in previous seminars, confe
 
 <h2 class="subtitle" id="presentation">Presentation</h2>
 
-Your application must be prepared using Microsoft Word Proceedings <https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fupma.kiev.ua%2Fwp-content%2Fuploads%2F2022%2F01%2Fwordtemplateinceurartforonecolumn.doc&wdOrigin=BROWSELINK> .
+Your application must be prepared using Microsoft Word Proceedings <https://ceur-ws.org/HOWTOSUBMIT.html#CEURART> .
 
 <h2 class="subtitle" id="requirements">Requirements</h2>
 
