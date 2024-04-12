@@ -21,9 +21,9 @@ Topics of interest include, but are not limited to:
 <h2 class="subtitle" id="terms">Terms and conditions</h2>
 
 - Workshop format is *hybrid.*
-- *Registration:* <https://forms.gle/6PYnDnnfR3eqZmfY7>
-- *On-site* part of the worshop will take place on April 19 in Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43.
-- *Paper Submissions Deadline* - ~~March 15, 2024~~ <b> March 29, 2024 </b>
+- *Registration:* Close
+- *On-site* part of the worshop will take place on April 19 in Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, room 306, Bratislava, 812 43.
+- *Paper Submissions Deadline* - ~~March 15, 2024~~ <b> ~~March 29, 2024~~ </b>
 - *Notification of Acceptance* - April 10, 2024
 - *Workshop date* -  April 19, 2024
 - *Participation in the workshop is free of charge.*
@@ -68,15 +68,15 @@ Topics of interest include, but are not limited to:
 
 11:30 am - 13:00 pm: Lunch Break
 
-13:00 pm - 14:15 pm:  Important Role of Project Management Tools in Urban Development and Smart Cities
+13:00 - 14:30:  Section 1 “Smart Cities and Data-Driven Society”
 
-14:15 pm - 14:30 pm: Coffee Break 
+14:30 - 14:45: Coffee Break 
 
-14:30 pm - 15:45 pm: Project Management Best Practices: Information Technologies & Methodological Aspects
+14:45 - 16:15: Section 2 “Important Role of Project Management Tools in Urban Development and Smart Cities “
 
-15:45 pm - 16:00 pm: Coffee Break
+16:15 - 16:30: Coffee Break
 
-16:00 pm - 17:15 pm: Enhancing Project Management. Case Studies in Smart Cities and Data-Driven Society Initiatives
+16:30 - 18:00:  Section 3 “Project Management Best Practices (Information Technologies & Methodological Aspects)“
 
 <h2 class="subtitle" id="submission">Submission</h2>
 
@@ -90,6 +90,10 @@ All accepted papers will be published in the electronic conference proceedings. 
 *Paper template:* 
 
 <https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&ouid=105631173934606727224&rtpof=true&sd=true>
+
+*Presentation template:* 
+
+<https://docs.google.com/presentation/d/1FUAxu7Zmu-DGhmKhkLczi7BsuG9nqLyU/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true>
 
 All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTPM2024>
 
