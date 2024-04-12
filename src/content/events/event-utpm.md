@@ -87,13 +87,7 @@ Materials of workshop will be indexed in the Scopus database. All submissions mu
 
 All accepted papers will be published in the electronic conference proceedings. All submissions will be evaluated by a members of the Programme Committee. Furthermore, the accepted papers must be presented at the conference at least by one of the authors.
 
-*Paper template:* 
-
-<https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&ouid=105631173934606727224&rtpof=true&sd=true>
-
-*Presentation template:* 
-
-<https://docs.google.com/presentation/d/1FUAxu7Zmu-DGhmKhkLczi7BsuG9nqLyU/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true>
+<a target="_blank" href="https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&ouid=105631173934606727224&rtpof=true&sd=true">Paper template</a>
 
 All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTPM2024>
 
@@ -102,6 +96,12 @@ Additional requirements:
 1. No more than 5 authors per article.
 2. Self-citation not exceeding 20%.
 3. At least one author must have an index of 5 or more in the DBLP database.
+
+<h2 class="subtitle" id="presentation">Presentation</h2>
+
+For the presentation, you have to use the following template:
+
+<a target="_blank" href="https://docs.google.com/presentation/d/1FUAxu7Zmu-DGhmKhkLczi7BsuG9nqLyU/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Presentation template</a>
 
 <h2 class="subtitle" id="proceedings">Workshop Proceedings</h2>
 
