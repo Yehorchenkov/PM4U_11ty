@@ -4,13 +4,20 @@
         "subtitle": "Smart Cities and Data-Driven Society",
         "description": "Event 1 description",
         "date": "19-04-2024",
-        "ref": "/content/events/event-utpm"       
+        "ref": "/content/events/event-utpm"
     },
     "event_itpm": {
         "title": "V International Workshop IT Project Management",
-        "subtitle": "ITPM 2024",        
+        "subtitle": "ITPM 2024",
         "description": "Event 1 description",
         "date": "22-05-2024",
         "ref": "/content/events/event-itpm"
-    }    
+    },
+    "event_networking_week_2024": {
+        "title": "Networking Week April 2024",
+        "subtitle": "",
+        "description": "Event 1 description",
+        "date": "15-04-2024 - 19-04-2024",
+        "ref": "/content/events/event-networking-week-2024"
+    }
 }
