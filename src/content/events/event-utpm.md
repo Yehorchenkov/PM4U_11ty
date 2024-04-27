@@ -56,6 +56,8 @@ Topics of interest include, but are not limited to:
 
 <h2 class="subtitle" id="programme">The programme of the Workshop</h2>
 
+Please find the technical program of the workshop following the link below: https://drive.google.com/file/d/1Fpc0UiL6twPd8XyeMS3Izn_PPKKcQXy5/view?usp=sharing
+
 **Agenda**
 
 8:30 am - 9:00 am: Registration and Welcome Coffee
