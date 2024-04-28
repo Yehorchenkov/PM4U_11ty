@@ -56,7 +56,9 @@ Topics of interest include, but are not limited to:
 
 <h2 class="subtitle" id="programme">The programme of the Workshop</h2>
 
-Please find the technical program of the workshop following the link below: https://drive.google.com/file/d/1Fpc0UiL6twPd8XyeMS3Izn_PPKKcQXy5/view?usp=sharing
+Please find the technical program of the workshop following the link below:
+
+<https://drive.google.com/file/d/1Fpc0UiL6twPd8XyeMS3Izn_PPKKcQXy5/view?usp=sharing>
 
 **Agenda**
 
@@ -129,3 +131,14 @@ The materials that will not include to CEUR proceedings might be publish in spec
 <h2 class="subtitle" id="contacts">Contact</h2>
 
 If you have any questions, do not hesitate to contact us by email: <pm4u.event@gmail.com>
+
+<h2 class="subtitle" id="photos">Photos from the Workshop</h2>
+
+<a href="/images/workshop-april-2024/1.jpg" target="_blank">{% image "./workshop-april-2024/1.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/2.jpg" target="_blank">{% image "./workshop-april-2024/2.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/4.jpg" target="_blank">{% image "./workshop-april-2024/4.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/5.jpg" target="_blank">{% image "./workshop-april-2024/5.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/8.jpg" target="_blank">{% image "./workshop-april-2024/8.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/9.jpg" target="_blank">{% image "./workshop-april-2024/9.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/6.jpg" target="_blank">{% image "./workshop-april-2024/6.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/7.jpg" target="_blank">{% image "./workshop-april-2024/7.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
