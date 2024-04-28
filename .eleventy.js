@@ -23,13 +23,15 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("./src/img-original/");
 
+    eleventyConfig.addPassthroughCopy("./src/images/");
+
     // favicon plugin
     eleventyConfig.addPlugin(faviconsPlugin, {});
 
-    eleventyConfig.addPlugin(pluginTOC, {        
+    eleventyConfig.addPlugin(pluginTOC, {
       ul: true,
       wrapper: 'toc',
-      wrapperClass: 'menu-list'     
+      wrapperClass: 'menu-list'
     });
 
     // Image shortcode
@@ -57,11 +59,11 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.on('eleventy.after', () => {
         execSync(`npx pagefind --site _site`, { encoding: 'utf-8' })
     });
-    
+
     // Return your Object options:
     return {
       dir: {
-        input: "src"        
+        input: "src"
       }
     }
   };
