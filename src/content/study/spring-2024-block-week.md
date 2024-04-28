@@ -23,4 +23,13 @@ The theme of the block week reflected current problems in the field of project a
 | Thursday, 14.03.2024    | PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|
 | Friday, 15.03.2024    | PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|PTM (r.306)|
 
-<h2 class="subtitle" id="details">Photos</h2>
+<h2 class="subtitle" id="photos">Photos</h2>
+
+<a href="/images/block-week-march-2024/1.jpg" target="_blank">{% image "./block-week-march-2024/1.jpg" "photo from block week march 2024" 200 %}</a>
+<a href="/images/block-week-march-2024/2.jpg" target="_blank">{% image "./block-week-march-2024/2.jpg" "photo from block week march 2024" 200 %}</a>
+<a href="/images/block-week-march-2024/7.jpg" target="_blank">{% image "./block-week-march-2024/7.jpg" "photo from block week march 2024" 128 %}</a>
+<a href="/images/block-week-march-2024/4.jpg" target="_blank">{% image "./block-week-march-2024/4.jpg" "photo from block week march 2024" 128 %}</a>
+<a href="/images/block-week-march-2024/6.jpg" target="_blank">{% image "./block-week-march-2024/6.jpg" "photo from block week march 2024" 128 %}</a>
+<a href="/images/block-week-march-2024/3.jpg" target="_blank">{% image "./block-week-march-2024/3.jpg" "photo from block week march 2024" 200 %}</a>
+<a href="/images/block-week-march-2024/8.jpg" target="_blank">{% image "./block-week-march-2024/8.jpg" "photo from block week march 2024" 200 %}</a>
+<a href="/images/block-week-march-2024/9.jpeg" target="_blank">{% image "./block-week-march-2024/9.jpeg" "photo from block week march 2024" 200 %}</a>

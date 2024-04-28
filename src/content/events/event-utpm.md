@@ -134,11 +134,11 @@ If you have any questions, do not hesitate to contact us by email: <pm4u.event@g
 
 <h2 class="subtitle" id="photos">Photos from the Workshop</h2>
 
-<a href="/images/workshop-april-2024/1.jpg" target="_blank">{% image "./workshop-april-2024/1.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/2.jpg" target="_blank">{% image "./workshop-april-2024/2.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/4.jpg" target="_blank">{% image "./workshop-april-2024/4.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/5.jpg" target="_blank">{% image "./workshop-april-2024/5.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/8.jpg" target="_blank">{% image "./workshop-april-2024/8.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/9.jpg" target="_blank">{% image "./workshop-april-2024/9.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/6.jpg" target="_blank">{% image "./workshop-april-2024/6.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
-<a href="/images/workshop-april-2024/7.jpg" target="_blank">{% image "./workshop-april-2024/7.jpg" "ukrainian delegation with Nataliia Yehorchenkova in front of hotel Akademik STU" 128 %}</a>
+<a href="/images/workshop-april-2024/1.jpg" target="_blank">{% image "./workshop-april-2024/1.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/2.jpg" target="_blank">{% image "./workshop-april-2024/2.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/4.jpg" target="_blank">{% image "./workshop-april-2024/4.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/5.jpg" target="_blank">{% image "./workshop-april-2024/5.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/8.jpg" target="_blank">{% image "./workshop-april-2024/8.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/9.jpg" target="_blank">{% image "./workshop-april-2024/9.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/6.jpg" target="_blank">{% image "./workshop-april-2024/6.jpg" "photo from workshop" 128 %}</a>
+<a href="/images/workshop-april-2024/7.jpg" target="_blank">{% image "./workshop-april-2024/7.jpg" "photo from workshop" 128 %}</a>
