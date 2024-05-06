@@ -1,8 +1,9 @@
 ---
-title: Spring 2024 Block Week
+title: Project and Territory Management (Spring 2024)
+subtitle: Spring 2024 Block Week
 metatitle: Module Project and Territory Management for students of Department of Spatial Planning and Erasmus students of Institute of Management, Slovak University of Technology in Bratislava in the framework of PM4U project
+date: 2024-03-11
 layout: layouts/page-toc.njk
-event: "event_spring2024"
 ---
 
 <h2 class="subtitle" id="details">Block Week details</h2>

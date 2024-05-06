@@ -27,9 +27,9 @@
                     Study
                 </a>
                 <div class="navbar-dropdown">
-                    {% for key, val in study %}
-                        <a class="navbar-item" href="{{ val.ref }}">
-                            {{ val.title }}
+                    {% for study in collections.study | reverse %}
+                        <a class="navbar-item" href="{{ study.url }}">
+                            {{ study.data.title }}
                         </a>
                     {% endfor %}
                 </div>
@@ -40,9 +40,9 @@
                     Events
                 </a>
                 <div class="navbar-dropdown">
-                    {% for key, val in events %}
-                        <a class="navbar-item" href="{{ val.ref }}">
-                            {{ val.title }}
+                    {% for event in collections.events | reverse %}
+                        <a class="navbar-item" href="{{ event.url }}">
+                            {{ event.data.title }}
                         </a>
                     {% endfor %}
                 </div>

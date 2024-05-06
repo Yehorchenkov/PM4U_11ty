@@ -17,18 +17,8 @@
         </url>
     
         <url>
-            <loc>https://pm4u.priestoroveplanovanie.sk/content/events/event-itpm/</loc>
-            <lastmod>2024-02-07T11:03:54.951Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://pm4u.priestoroveplanovanie.sk/content/events/event-utpm/</loc>
-            <lastmod>2024-02-07T11:03:54.952Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://pm4u.priestoroveplanovanie.sk/content/study/spring-2024-block-week/</loc>
-            <lastmod>2024-03-18T08:00:23.481Z</lastmod>
+            <lastmod>2024-03-11T00:00:00.000Z</lastmod>
         </url>
     
         <url>
@@ -38,7 +28,22 @@
     
         <url>
             <loc>https://pm4u.priestoroveplanovanie.sk/content/events/event-networking-week-2024/</loc>
-            <lastmod>2024-04-22T18:15:54.335Z</lastmod>
+            <lastmod>2024-04-15T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://pm4u.priestoroveplanovanie.sk/content/events/event-utpm/</loc>
+            <lastmod>2024-04-19T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://pm4u.priestoroveplanovanie.sk/content/events/event-itpm/</loc>
+            <lastmod>2024-05-22T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://pm4u.priestoroveplanovanie.sk/content/events/event-icud/</loc>
+            <lastmod>2024-10-18T00:00:00.000Z</lastmod>
         </url>
     
 </urlset>

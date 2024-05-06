@@ -1,8 +1,9 @@
 ---
-title: PM4U Spring Workshop 2024
+title: Project management in the context of EU urban transformation
+subtitle: Smart Cities and Data-Driven Society
 metatitle: Workshop on Urban Transformation Project Management (UTPM 2024)
+date: 2024-04-19
 layout: layouts/page-toc.njk
-event: "event_utpm"
 ---
 
 <h2 class="subtitle" id="details">Workshop details</h2>

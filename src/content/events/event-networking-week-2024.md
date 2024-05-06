@@ -1,8 +1,9 @@
 ---
-title: Networking Week April 2024
+title: "Networking Week April 2024"
+subtitle: ""
 metatitle: Networking week Institute of Management Slovak University of Technology in Bratislava with support of Spectra Centre of Excellence EU with Kyiv National University of Construction and Architecture and Taras Shevchenko National University of Kyiv
+date: 2024-04-15
 layout: layouts/page-toc.njk
-event: "event_networking_week_2024"
 ---
 
 During the week of April 15th to 19th, 2024, a networking event was organized between the Institute of Management STUBA and several Ukrainian universities. These universities were represented by

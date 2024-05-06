@@ -1,8 +1,9 @@
 ---
-title: ITPM 2024
+title: V International Workshop IT Project Management
+subtitle: ITPM 2024
 metatitle: V International Workshop "IT Project Management" (ITPM 2024)
+date: 2024-05-22
 layout: layouts/page-toc.njk
-event: "event_itpm"
 ---
 
 <h2 class="subtitle" id="details">Workshop details</h2>
@@ -26,22 +27,22 @@ The theme of the workshop reflects current problems in the field of IT portfolio
 
 - **Babayev Igbal**, professor, Doctor of Science, Baku Polytechnic University, Baku, Azerbaijan
 - **Biloschytskyi Andriy**, professor, Doctor of Science, vice-rector of Nursultan University of Information Technologies, Almaty, Kazakhstan
-- **Carsten Wolff**, Professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany 
+- **Carsten Wolff**, Professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany
 - **Cetin Elmas**, Professor, Gazi University, Ankara, Turkey
-- **Hiroshi Tanaka**, professor, Doctor of Science, professor University of Tokyo, Tokyo, Japan 
-- **Husar Milan**, PhD, Slovak University of Technology in Bratislava, Bratislava, Slovakia 
+- **Hiroshi Tanaka**, professor, Doctor of Science, professor University of Tokyo, Tokyo, Japan
+- **Husar Milan**, PhD, Slovak University of Technology in Bratislava, Bratislava, Slovakia
 - **Husaynova Myra**, professor, Kazakhstan Project Management Association, Almaty, Kazakhstan
 - **Jamečný Ľubomír**, associate professor, Slovak University of Technology in Bratislava, Bratislava, Slovakia
-- **Lebkowski Piotr**, Professor, Doctor of Science, AGH University of Science and Technology, Krakow, Poland 
-- **Obradović Volodymyr**, Professor, Doctor of Science, University of Belgrade, Belgrade, Serbia 
-- **Ondrejička Vladimír**, Associate professor, Slovak University of Technology in Bratislava, Bratislava, Slovakia 
-- **Pasichnyk Volodymyr**, professor of Lviv Polytechnic National University, Lviv, Ukraine 
-- **Petryshyn Lubomyr**, professor, Doctor of Science, AGH University of Science and Technology, Krakow, Poland 
-- **Recker Stefan**, professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany 
-- **Romanenkov Yuriy**, professor, Doctor of Science, professor National Aerospace University, Kharkiv Aviation Institute, Kharkiv, Ukraine 
-- **Sachenko Anatoly**, professor, Doctor of Science, professor Radom University of Technology, Radom, Poland 
+- **Lebkowski Piotr**, Professor, Doctor of Science, AGH University of Science and Technology, Krakow, Poland
+- **Obradović Volodymyr**, Professor, Doctor of Science, University of Belgrade, Belgrade, Serbia
+- **Ondrejička Vladimír**, Associate professor, Slovak University of Technology in Bratislava, Bratislava, Slovakia
+- **Pasichnyk Volodymyr**, professor of Lviv Polytechnic National University, Lviv, Ukraine
+- **Petryshyn Lubomyr**, professor, Doctor of Science, AGH University of Science and Technology, Krakow, Poland
+- **Recker Stefan**, professor, Dortmund University of Applied Sciences and Arts, Dortmund, Germany
+- **Romanenkov Yuriy**, professor, Doctor of Science, professor National Aerospace University, Kharkiv Aviation Institute, Kharkiv, Ukraine
+- **Sachenko Anatoly**, professor, Doctor of Science, professor Radom University of Technology, Radom, Poland
 - **Vaverková Magdalena**, professor, Doctor of Science, professor SGGW, Warsaw University of Life Sciences, Warsaw, Poland
-- **Yehorchenkov Oleksii**, researcher, Doctor of Science, associate professor, Slovak University of Technology in Bratislava, Bratislava, Slovakia 
+- **Yehorchenkov Oleksii**, researcher, Doctor of Science, associate professor, Slovak University of Technology in Bratislava, Bratislava, Slovakia
 
 <h2 class="subtitle" id="orginizing-committee"> Organizing committee </h2>
 
@@ -52,11 +53,11 @@ Secretary of the organizing committee:
 
 **Members of the organizing committee:**
 - **Bushuev Serhiy**, professor, Doctor of Science, head of the Ukrainian Project Management Association "UKRNET", Kyiv, Ukraine
-- **Pasichnyk Volodymyr**, professor, Doctor of Science, professor of Lviv Polytechnic National University, Lviv, Ukraine 
-- **Trach Roman**, professor, Doctor of Science, professor of Institute of Civil Engineering at Warsaw University of Life Sciences, Warsaw, Poland 
-- **Rutkowska Gabriela**,  Ph.D. Institute of Civil Engineering at Warsaw University of Life Sciences, Warsaw, Poland 
-- **Podlasek Anna**, Ph.D., Institute of Civil Engineering at Warsaw University of Life Sciences,  Warsaw, Poland 
-- **Trach Yuliia**, Ph.D., Institute of Civil Engineering at Warsaw University of Life Sciences, , Warsaw, Poland 
+- **Pasichnyk Volodymyr**, professor, Doctor of Science, professor of Lviv Polytechnic National University, Lviv, Ukraine
+- **Trach Roman**, professor, Doctor of Science, professor of Institute of Civil Engineering at Warsaw University of Life Sciences, Warsaw, Poland
+- **Rutkowska Gabriela**,  Ph.D. Institute of Civil Engineering at Warsaw University of Life Sciences, Warsaw, Poland
+- **Podlasek Anna**, Ph.D., Institute of Civil Engineering at Warsaw University of Life Sciences,  Warsaw, Poland
+- **Trach Yuliia**, Ph.D., Institute of Civil Engineering at Warsaw University of Life Sciences, , Warsaw, Poland
 - **Duda Oleksiy**, associate professor, Ph.D, associate professor of the Ternopil National Technical University named after I. Pulyuya, Ternopil, Ukraine
 
 <h2 class="subtitle" id="purpose">The main purpose</h2>
@@ -75,7 +76,7 @@ The main purpose of the ITPM-2024 workshop is to discuss the latest research res
 
 The workshop materials may include papers presenting the results of original research in the field of IT project management, including project action methodologies, project team management, project analysis from the perspective of employers, important aspects of IT training, emotional states of project team members and more.
 
-The official language of the ITPM 2024 workshop is English. All works must also be written and presented in English. The workshop will take the form of oral presentations in English with presentations. Reporting is required. 
+The official language of the ITPM 2024 workshop is English. All works must also be written and presented in English. The workshop will take the form of oral presentations in English with presentations. Reporting is required.
 
 All submissions must be original, i.e. not published in previous seminars, conferences or journals and contain at least 10 “standard” pages and comply with CEUR format guidelines.
 
@@ -101,4 +102,4 @@ All papers for participation in the conference (in DOC format) are submitted via
 
 - Deadline for receiving documents with changes: 10 May, 2024
 
-- Conference date: 22 May, 2024 
+- Conference date: 22 May, 2024
