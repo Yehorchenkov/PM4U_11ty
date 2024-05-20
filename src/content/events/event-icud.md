@@ -19,6 +19,16 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 1.	<b>Academic Community:</b> Professors, researchers, and students from relevant disciplines.
 2.	<b>Regional Authorities:</b> Representatives from local and regional governments, urban planning departments, and policymakers.
 
+<h2 class="subtitle" id="terms">Terms and conditions</h2>
+
+- Roundtable format is *hybrid.*
+- *Registration:* https://forms.gle/Wxy8RUJk32DStLfu7*
+- *Registration deadline:* <b>October 1, 2024</b>
+- *On-site* part of the roundtable will take place at Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5,  Bratislava, 812 43.
+- *Abstract Submissions Deadline* - <b> August 1, 2024 </b>
+- *Decision on selection of abstracts* - <b> August 15, 2024 </b>
+- *Workshop date* -  <b> October 18, 2024 </b>
+- *Participation in the roundtable is free of charge.*
 
 <h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 
@@ -53,10 +63,15 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 4:30 PM - 5:00 PM: Closing Remarks and Next Steps
 
-<h2 class="subtitle" id="registration">Registration</h2>
-
-<h2 class="subtitle" id="Publication">Publication</h2>
-
-The roundtable outputs will be published in European Journal of Spatial Development.
-
 <h2 class="subtitle" id="submission">Submission</h2>
+The official roundtable language is English.
+
+All the papers need to be written and presented in English as well.
+
+All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://ecsdev.org/ojs/index.php/ejsd/about/submissions>. 
+
+All submissions will be evaluated by a members of the Programme Committee. 
+
+<a target="_blank" href="https://ojs.ecsdev.org/index.php/ejsd/article/view/71/65">Paper example</a>
+
+All papers for participation in the roundtable (in DOC format) should be submitted via <b> CMT Microsoft system </b>: 
