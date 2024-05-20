@@ -32,8 +32,8 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 <h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 
-1. *Prof. Yehorchenkova Nataliia*, Slovak University of Technology in Bratislava, Slovakia
-2. *Prof. Yehorchenkov Oleksii*, Slovak University of Technology in Bratislava, Slovakia
+1. *Prof. Nataliia Yehorchenkova*, Slovak University of Technology in Bratislava, Slovakia
+2. *Prof. Oleksii Yehorchenkov*, Slovak University of Technology in Bratislava, Slovakia
 3. *Prof. Maros Finka*, Slovak University of Technology in Bratislava, Slovakia
 4. *Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
 5. *Dr. Eva Purkarthofer*,  TG “Transboundary planning and governance”, Association of European schools of planning
