@@ -69,10 +69,11 @@ The official roundtable language is English.
 
 All the papers need to be written and presented in English as well.
 
-All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://journals.polito.it/index.php/EJSD/index. 
+All accepted papers will be considered for publication in the <b>"European Journal of Spatial Development"</b> <https://journals.polito.it/index.php/EJSD/index>. 
 
-All submissions will be evaluated by a members of the Programme Committee. 
+All submissions will be evaluated by a members of the Organizing Committee and/or external reviewers. 
 
-<a target="_blank" href="https://ojs.ecsdev.org/index.php/ejsd/article/view/71/65">Paper example</a>
+The journal published three types of articles: research articles, review articles and debate articles. Please check the journal website for more details: <https://journals.polito.it/index.php/EJSD/about/submissions>
 
 All papers for participation in the roundtable (in DOC format) should be submitted via <b> CMT Microsoft system </b>: 
+<https://cmt3.research.microsoft.com/ICUD2024>
