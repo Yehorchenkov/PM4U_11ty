@@ -27,7 +27,8 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 - *On-site* part of the roundtable will take place at Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5,  Bratislava, 812 43.
 - *Abstract Submissions Deadline* - <b> August 1, 2024 </b>
 - *Decision on selection of abstracts* - <b> August 15, 2024 </b>
-- *Workshop date* -  <b> October 18, 2024 </b>
+- *Paper Submissions Deadline* - <b> October 1, 2024 </b>
+- *Roundtable date* -  <b> October 18, 2024 </b>
 - *Participation in the roundtable is free of charge.*
 
 <h2 class="subtitle" id="org-committee">Organizing Committee</h2>
@@ -68,7 +69,7 @@ The official roundtable language is English.
 
 All the papers need to be written and presented in English as well.
 
-All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://ecsdev.org/ojs/index.php/ejsd/about/submissions>. 
+All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://journals.polito.it/index.php/EJSD/index. 
 
 All submissions will be evaluated by a members of the Programme Committee. 
 
