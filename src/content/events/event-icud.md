@@ -68,10 +68,10 @@ The official roundtable language is English.
 
 All the papers need to be written and presented in English as well.
 
-All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://ecsdev.org/ojs/index.php/ejsd/about/submissions>. 
+All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://ecsdev.org/ojs/index.php/ejsd/about/submissions>.
 
-All submissions will be evaluated by a members of the Programme Committee. 
+All submissions will be evaluated by a members of the Programme Committee.
 
 <a target="_blank" href="https://ojs.ecsdev.org/index.php/ejsd/article/view/71/65">Paper example</a>
 
-All papers for participation in the roundtable (in DOC format) should be submitted via <b> CMT Microsoft system </b>: 
+All papers for participation in the roundtable (in DOC format) should be submitted via <b> CMT Microsoft system </b>:
