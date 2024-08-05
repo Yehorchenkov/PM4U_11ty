@@ -25,10 +25,9 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 - *Registration:* <a href="https://forms.gle/Wxy8RUJk32DStLfu7" target="_blank">https://forms.gle/Wxy8RUJk32DStLfu7</a>
 - *Registration deadline:* <b>October 1, 2024</b>
 - *On-site* part of the roundtable will take place at Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5,  Bratislava, 812 43.
-- *Abstract Submissions Deadline* - <b> August 1, 2024 </b>
-- *Decision on selection of abstracts* - <b> August 15, 2024 </b>
-- *Rountable date* -  <b> October 18, 2024 </b>
+- *Roundtable date* -  <b> October 18, 2024 </b>
 - *Participation in the roundtable is free of charge.*
+- The official roundtable language is English.
 
 <h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 
@@ -47,31 +46,37 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 9:30 AM - 9:45 AM: Welcome and Opening Remarks
 
-9:45 AM - 11:00 AM: Section 1 - Inclusive and Resilience Cities: Understanding Needs, Overcoming Challenges, and Seizing Opportunities for Urban Transformation in Wartime
+9:45 AM - 11:00 AM: Track 1 Keynote speakers presentation
 
 11:00 AM - 11:15 AM: Networking Break
 
-11:15 AM - 12:30 PM: Section 1 - Inclusive and Resilience Cities: Understanding Needs, Overcoming Challenges, and Seizing Opportunities for Urban Transformation in Wartime
+11:15 AM - 12:30 PM: Track 2 Case studies from Ukrainian local authorities
 
 12:30 PM - 1:30 PM: Lunch Break
 
-1:30 PM - 2:45 PM: Section 3 - Presentations from AESOP Representatives (Lessons learned from Europe to Ukraine and other postwar countries)
+1:30 PM - 2:45 PM: Track 3 Presentations from AESOP Representatives 
 
 2:45 PM - 3:00 PM: Networking Break
 
-3:00 PM - 4:30 PM: Section 4 - Challenges of wartime (Lessons learned for EUROPE)
+3:00 PM - 4:30 PM: Section 4 - World cafe
 
 4:30 PM - 5:00 PM: Closing Remarks and Next Steps
 
-<h2 class="subtitle" id="submission">Submission</h2>
-The official roundtable language is English.
+<h2 class="subtitle" id="publication">Publication</h2>
 
-All the papers need to be written and presented in English as well.
+<b> A special issue of the ["European Journal of Spatial Development"](https://journals.polito.it/index.php/EJSD/index) will be prepared as part of the roundtable.  All accepted articles will be considered for publication. </b>
 
-All accepted papers will be published in the <b>"European Journal of Spatial Development"</b> <https://ecsdev.org/ojs/index.php/ejsd/about/submissions>.
+All the articles need to be written and presented in English.
+ 
+All submissions will be evaluated by a members of the Organizing Committee and/or external reviewers. 
 
-All submissions will be evaluated by a members of the Programme Committee.
+The journal publishes three types of articles: **research articles**, **review articles** and **debate articles**. Please refer to the journal website for more details: [submission guidelines](https://journals.polito.it/index.php/EJSD/about/submissions). 
+For roundtable it is recommended to publish <b>debate</b> articles.
 
-<a target="_blank" href="https://ojs.ecsdev.org/index.php/ejsd/article/view/71/65">Paper example</a>
+All articles for participation in the roundtable (in DOC format) should be submitted via [CMT Microsoft system](https://cmt3.research.microsoft.com/ICUD2024)
 
-All papers for participation in the roundtable (in DOC format) should be submitted via <b> CMT Microsoft system </b>:
+<b>Terms:</b>
+
+- *Abstract Submissions Deadline* - ~~August 1, 2024~~  <b> September 3, 2024 </b>
+- *Decision on selection of abstracts* - ~~August 15, 2024~~  <b> October 1, 2024 </b>
+- *Paper Submissions Deadline* - ~~October 1, 2024~~  <b> December 1, 2024 </b>
