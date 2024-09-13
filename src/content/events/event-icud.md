@@ -34,7 +34,7 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 1. *Prof. Nataliia Yehorchenkova*, Slovak University of Technology in Bratislava, Slovakia
 2. *Prof. Oleksii Yehorchenkov*, Slovak University of Technology in Bratislava, Slovakia
 3. *Prof. Maros Finka*, Slovak University of Technology in Bratislava, Slovakia
-4. *Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
+4. *Prof. Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
 5. *Dr. Eva Purkarthofer*,  TG “Transboundary planning and governance”, Association of European schools of planning
 5. *Prof.dr. Alois Humer*,  TG “Transboundary planning and governance”, Association of European schools of planning
 
@@ -42,25 +42,26 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 **Agenda**
 
-9:00 AM - 9:30 AM: Registration and Networking
+**9:00 - 9:30** Registration and Networking
 
-9:30 AM - 9:45 AM: Welcome and Opening Remarks
+**9:30 - 9:45** Welcome and Opening Remarks
 
-9:45 AM - 11:00 AM: Track 1 Keynote speakers presentation
+**9:45 - 11:00** Session 1: Political and academic insight from Ukraine: Understanding needs, challenges and opportunities for urban transformation in wartime
 
-11:00 AM - 11:15 AM: Networking Break
+**11:00 - 11:15** Networking Break
 
-11:15 AM - 12:30 PM: Track 2 Case studies from Ukrainian local authorities
+**11:15 - 12:15** Session 2: A case study of transformation and development from Ukrainian local authorities
 
-12:30 PM - 1:30 PM: Lunch Break
+**12:15 - 13:15** Lunch Break
 
-1:30 PM - 2:45 PM: Track 3 Presentations from AESOP Representatives 
+**13:15 - 14:45** Session 3: Reflections and learnings for post-war urban planning: European and global perspectives
 
-2:45 PM - 3:00 PM: Networking Break
+**14:45 - 15:00** Networking Break
 
-3:00 PM - 4:30 PM: Section 4 - World cafe
+**15:00 - 16:30** Session 4: World café: Discussion (onsite)/Paper presentations and discussion (online)
 
-4:30 PM - 5:00 PM: Closing Remarks and Next Steps
+**16:30 - 17:00** Closing Remarks and Next Steps
+
 
 <h2 class="subtitle" id="publication">Publication</h2>
 
