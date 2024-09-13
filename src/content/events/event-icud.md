@@ -68,11 +68,12 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 <b> A special issue of the ["European Journal of Spatial Development"](https://journals.polito.it/index.php/EJSD/index) will be prepared as part of the roundtable.  All accepted articles will be considered for publication. </b>
 
 All the articles need to be written and presented in English.
- 
-All submissions will be evaluated by a members of the Organizing Committee and/or external reviewers. 
 
-The journal publishes three types of articles: **research articles**, **review articles** and **debate articles**. Please refer to the journal website for more details: [submission guidelines](https://journals.polito.it/index.php/EJSD/about/submissions). 
-For roundtable it is recommended to publish <b>debate</b> articles.
+All submissions will be evaluated by a members of the Organizing Committee and/or external reviewers.
+
+The journal publishes three types of articles: **research articles**, **review articles** and **debate articles**. Please refer to the journal website for more details: [submission guidelines](https://journals.polito.it/index.php/EJSD/about/submissions).
+For roundtable it is recommended to publish **debate** articles.
+Template for the abstract can be found [here](/media/template_roundtable_18_10.pdf).
 
 All articles for participation in the roundtable (in DOC format) should be submitted via [CMT Microsoft system](https://cmt3.research.microsoft.com/ICUD2024)
 
