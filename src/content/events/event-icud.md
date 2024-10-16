@@ -36,9 +36,13 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 3. *Prof. Maros Finka*, Slovak University of Technology in Bratislava, Slovakia
 4. *Prof. Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
 5. *Dr. Eva Purkarthofer*,  TG “Transboundary planning and governance”, Association of European schools of planning
-5. *Prof.dr. Alois Humer*,  TG “Transboundary planning and governance”, Association of European schools of planning
+5. *Dr. Alois Humer*,  TG “Transboundary planning and governance”, Association of European schools of planning
 
 <h2 class="subtitle" id="programme">The programme of the Roundtable</h2>
+
+Please find the technical program of the workshop following the link below:
+
+<https://drive.google.com/file/d/19jRwMojPHU2LISeyF6p4_MUgeF4VxcpI/view?usp=sharing>
 
 **Agenda**
 
@@ -46,22 +50,38 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 **9:30 - 9:45** Welcome and Opening Remarks
 
-**9:45 - 11:00** Session 1: Political and academic insight from Ukraine: Understanding needs, challenges and opportunities for urban transformation in wartime
+**9:45 - 10:45** **Session 1**:Panel Discussion “Post-War Ukrainian Transformation: Insights and Outlook on Challenges, Problems, and Possibilities"
 
-**11:00 - 11:15** Networking Break
+**10:45 - 11:00** Networking Break
 
-**11:15 - 12:15** Session 2: A case study of transformation and development from Ukrainian local authorities
+**11:00 - 12:30** **Session 2**: Political and academic insight from Ukraine: Understanding needs, challenges and opportunities for urban transformation in wartime
 
-**12:15 - 13:15** Lunch Break
+**12:30 - 13:30** Lunch Break
 
-**13:15 - 14:45** Session 3: Reflections and learnings for post-war urban planning: European and global perspectives
+**13:30 - 15:00** **Session 3**: Reflections and learnings for post-war urban planning: European and global perspectives
 
-**14:45 - 15:00** Networking Break
+**15:00 - 15:15** Networking Break
 
-**15:00 - 16:30** Session 4: World café: Discussion (onsite)/Paper presentations and discussion (online)
+**15:15 - 16:45** **Session 4**:
 
-**16:30 - 17:00** Closing Remarks and Next Steps
+<ol type="a">
+    <li>World café and closing session <b>(onsite)</b></li>
+    <li>Paper presentations and discussion <b>(online)</b></li>
+</ol>
 
+<h2 class="subtitle" style="color:red" id="online">For online participants</h2>
+
+Time: October 18, 2024 09:00 AM Prague Bratislava
+
+Zoom Meeting:
+
+<a style="color:red" target="_blank" href="https://knu-ua.zoom.us/j/83526333877?pwd=S3Tjnd1qVpPORZRi7L0dsCsLAo4GNi.1">
+    https://knu-ua.zoom.us/j/83526333877?pwd=S3Tjnd1qVpPORZRi7L0dsCsLAo4GNi.1
+</a>
+
+Meeting ID: 835 2633 3877
+
+Passcode: 073660
 
 <h2 class="subtitle" id="publication">Publication</h2>
 
