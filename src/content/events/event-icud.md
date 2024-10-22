@@ -17,14 +17,14 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 <b>Target Audience:</b>
 
 1.	<b>Academic Community:</b> Professors, researchers, and students from relevant disciplines.
-2.	<b>Regional Authorities:</b> Representatives from local and regional governments, urban planning departments, and policymakers.
+2.	<b>Local Authorities:</b> Representatives from local and regional governments, urban planning departments, and policymakers.
 
 <h2 class="subtitle" id="terms">Terms and conditions</h2>
 
 - Roundtable format is *hybrid.*
 - *Registration:* <a href="https://forms.gle/Wxy8RUJk32DStLfu7" target="_blank">https://forms.gle/Wxy8RUJk32DStLfu7</a>
 - *Registration deadline:* <b>October 1, 2024</b>
-- *On-site* part of the roundtable will take place at Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5,  Bratislava, 812 43.
+- *On-site* part of the roundtable will take place at Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, room 5.1, Bratislava, 812 43.
 - *Roundtable date* -  <b> October 18, 2024 </b>
 - *Participation in the roundtable is free of charge.*
 - The official roundtable language is English.
@@ -42,7 +42,7 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 Please find the technical program of the workshop following the link below:
 
-<https://drive.google.com/file/d/19jRwMojPHU2LISeyF6p4_MUgeF4VxcpI/view?usp=sharing>
+<https://drive.google.com/file/d/1KYfUDLbYRPcHkLdbKC0JzX9qoT-6E2Cz/view?usp=sharing>
 
 **Agenda**
 
@@ -102,3 +102,14 @@ All articles for participation in the roundtable (in DOC format) should be submi
 - *Abstract Submissions Deadline* - ~~August 1, 2024~~  <b> September 3, 2024 </b>
 - *Decision on selection of abstracts* - ~~August 15, 2024~~  <b> October 1, 2024 </b>
 - *Paper Submissions Deadline* - ~~October 1, 2024~~  <b> December 1, 2024 </b>
+
+<h2 class="subtitle" id="photos">Photos from the Roundtable</h2>
+
+<a href="/images/roundtable-october-2024/9.jpg" target="_blank">{% image "./roundtable-october-2024/9.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/1.jpg" target="_blank">{% image "./roundtable-october-2024/1.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/2.jpg" target="_blank">{% image "./roundtable-october-2024/2.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/5.jpg" target="_blank">{% image "./roundtable-october-2024/5.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/7.jpg" target="_blank">{% image "./roundtable-october-2024/7.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/10.jpg" target="_blank">{% image "./roundtable-october-2024/10.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/6.jpg" target="_blank">{% image "./roundtable-october-2024/6.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/roundtable-october-2024/4.jpg" target="_blank">{% image "./roundtable-october-2024/4.jpg" "photo from roundtable" 128 %}</a>
