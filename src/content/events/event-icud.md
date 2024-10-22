@@ -42,7 +42,11 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 
 Please find the technical program of the workshop following the link below:
 
-<https://drive.google.com/file/d/1KYfUDLbYRPcHkLdbKC0JzX9qoT-6E2Cz/view?usp=sharing>
+<a target="_blank" href="https://drive.google.com/file/d/19jRwMojPHU2LISeyF6p4_MUgeF4VxcpI/view?usp=sharing">
+    https://drive.google.com/file/d/19jRwMojPHU2LISeyF6p4_MUgeF4VxcpI/view?usp=sharing
+</a>
+
+<p> </p>
 
 **Agenda**
 
@@ -79,8 +83,7 @@ Zoom Meeting:
     https://knu-ua.zoom.us/j/83526333877?pwd=S3Tjnd1qVpPORZRi7L0dsCsLAo4GNi.1
 </a>
 
-Meeting ID: 835 2633 3877
-
+Meeting ID: 835 2633 3877\
 Passcode: 073660
 
 <h2 class="subtitle" id="publication">Publication</h2>
