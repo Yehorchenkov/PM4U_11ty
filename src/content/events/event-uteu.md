@@ -2,90 +2,102 @@
 title: Urban Transformation in the EU 
 subtitle: Challenges and Opportunities
 metatitle: Conference on Urban Transformation in the EU (UTEU 2025)
-date: 2024-04-01
+date: 2025-04-17
 layout: layouts/page-toc.njk
 ---
 
 <h2 class="subtitle" id="details">Conference details</h2>
 
-The online conference "Urban Transformation in the EU: Challenges and Opportunities" aims to bring together PhD students, early-career researchers, and academics from diverse fields to discuss the dynamic challenges and emerging opportunities in urban transformation within the European Union.
+The PhD conference "Urban Transformation in the EU: Challenges and Opportunities" provides a platform for doctoral students to present their research on urban development, addressing pressing issues such as climate change, energy transition, and sustainable spatial planning. Co-funded by the European Union, organized under the PM4U initiative, and supported by EUList projects, the conference will bring together young researchers to share ideas and knowledge about urban transformation in the EU.
 
-As cities evolve to address climate change, energy transition, digital transformation, and social inclusion, the role of innovative planning, interdisciplinary research, and cross-sector collaboration has become crucial. This conference offers a platform for PhD students to present their research, share insights, and engage with peers and experts in addressing the pressing issues shaping the urban future of Europe.
+<b>Key themes can include:</b>
 
-Key themes include:
+- Healthy Cities and Urban Well-being
+- Collaborative Spatial Planning Initiatives
+- Smart Cities and Technology Integration
+- EU Policy and Sustainable Urban Development
+- International and Cross-Border Urban Collaboration
+- Project Management in Urban Transformation
 
-- Sustainable urban development and climate resilience.
-- Energy-efficient and smart cities in the context of the Green Deal.
-- Inclusive spatial planning for diverse communities.
-- Digitalization and its impact on urban governance and infrastructure.
-- Cross-border urban initiatives and regional cooperation.
-- Project management practices in urban transformation projects.
-- The role of urban economies in driving sustainable development.
+<b>Conference Goals:</b>
+- Facilitate knowledge exchange among PhD students.
+- Promote interdisciplinary dialogue.
+- Encourage collaboration and networking among participants from different countries and disciplines.
+
+<b>Target Audience:</b>
+
+PhD students and early-career researchers in urban studies, spatial planning, environmental science, architecture, project management, economics, and related fields.
 
 <h2 class="subtitle" id="terms">Terms and conditions</h2>
 
-- Conference format is *online.*
-- *Registration:* 
-- *Satellite Paper Submissions Deadline* - <b> April 1, 2025 </b>
-- *Conference date* -  April 1, 2025
-- *Participation in the conference is free of charge.*
+- Conference format is <b>online.</b>
+- Registration: <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeQeZCeAcnNYSwCKh9CStBAcPSo83UVQOVCYyPyiM6W0656fg/viewform?usp=dialog">Registration link</a>   
+- Registration deadline - <b>April 15, 2025</b>
+- Satellite Paper Submissions Deadline - <b>April 5, 2025</b> 
+- Conference date - <b>April 17, 2025</b>
+- Participation in the conference is <b>free of charge.</b>
+- The official conference language is <b>English.</b>
 
-<h2 class="subtitle"id="prg-committee">Programme Committee</h2>
-
-1.	*Nataliia Yehorchenkova*, researcher, Spatial Planning Department, Slovak University of Technology in Bratislava, Ukraine
-2. *Oleksii Yehorchenkov*, researcher, Spatial Planning Department, Slovak University of Technology in Bratislava, Ukraine
-3. *Kataieva Yevheniia*, researcher, Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava, Slovakia
 
 <h2 class="subtitle" id="org-committee">Organizing Committee</h2>
 
-1. *Yehorchenkova Nataliia*, Slovak University of Technology in Bratislava, Slovakia
-2. *Yehorchenkov Oleksii*, Slovak University of Technology in Bratislava, Slovakia
-3. *Maros Finka*, Slovak University of Technology in Bratislava, Slovakia
-4. *Vladimír Ondrejička*,  Slovak University of Technology in Bratislava, Slovakia
-5. *Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
-6. *Milan Husar*, Slovak University of Technology in Bratislava, Slovakia
-7. *Iuliia Khlevna*, Taras Shevchenko National University of Kyiv, Ukraine
-8. *Oleksandr Kuchansky*, Astana IT university, Kazakhstan
-9. *Verenych Olena*, Kyiv National University of Construction and Architecture, Ukraine
+1. *Prof. Nataliia Yehorchenkova*, Slovak University of Technology in Bratislava, Slovakia
+2. *Prof. Oleksii Yehorchenkov*, Slovak University of Technology in Bratislava, Slovakia
+3. *Prof. Maroš Finka*, Slovak University of Technology in Bratislava, Slovakia
+4. *Prof. Milan Husar*, Slovak University of Technology in Bratislava, Slovakia
+5. *Prof. Yevheniia Kataieva*, Slovak University of Technology in Bratislava, Slovakia 
+6. *Prof. Rainer Danielzyk*, Leibniz University Hannover, Germany
+7. *Dr. Lena Greinke*, Leibniz University Hannover, Germany
+
+
+<h2 class="subtitle"id="prg-committee">Programme Committee</h2>
+
+1.	*prof.Nataliia Yehorchenkova*, Slovak University of Technology in Bratislava, Slovakia
+2.	*prof.Oleksii Yehorchenkov*, Slovak University of Technology in Bratislava, Slovakia
+3.	*prof.Maros Finka*, Slovak University of Technology in Bratislava, Slovakia
+4.	*prof.Vladimír Ondrejička*, Slovak University of Technology in Bratislava, Slovakia
+5.	*prof.Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
+6.	*prof.Milan Husar*, Slovak University of Technology in Bratislava, Slovakia
+7.	*prof.Iuliia Khlevna*, Taras Shevchenko National University of Kyiv, Ukraine
+8.	*prof.Oleksandr Kuchansky*, Astana IT university, Kazakhstan
+9.	*prof.Verenych Olena*, Kyiv National University of Construction and Architecture, Ukraine
+
 
 <h2 class="subtitle" id="programme">Agenda</h2>
 
+**Welcome words**
 
-8:30 am - 9:00 am: Registration and Welcome Coffee
+**Session 1. Healthy Cities & Urban Well-Being**
+**Focus:** Exploring innovative approaches to create healthier, more livable urban environments that enhance quality of life, public health, and resilience in the face of climate change.
+-	Presentations
+-	Q&A and Discussion
 
-9:00 am - 9:45 am: Welcome words
+**Session 2. Spatial Planning Initiatives**
+**Focus:** This session explores innovative spatial planning approaches for sustainable and resilient urban development. It highlights best practices, policy frameworks, and digital tools, emphasizing interdisciplinary collaboration and participatory planning.
+-	Presentations
+-	Q&A and Discussion
 
-9:45 am - 10:00 am: Coffee Break
+**Session 3. Smart Cities & Technology Integration**
+**Focus:** Delving into the role of digital innovation in transforming urban spaces, from smart infrastructure to data-driven decision-making.
+-	Presentations
+-	Q&A and Discussion
 
-10:00 am - 11:30 am: Plenary session
-
-11:30 am - 13:00 pm: Lunch Break
-
-13:00 - 14:30:  Section 1 “Smart Cities and Data-Driven Society”
-
-14:30 - 14:45: Coffee Break
-
-14:45 - 16:15: Section 2 “Important Role of Project Management Tools in Urban Development and Smart Cities “
-
-16:15 - 16:30: Coffee Break
-
-16:30 - 18:00:  Section 3 “Project Management Best Practices (Information Technologies & Methodological Aspects)“
+**Session 4. EU Policy, Sustainable Urban Development & Project Management**
+**Focus:** Examining the intersection of policy frameworks and project management in achieving sustainable urban transformation.
+-	Presentations
+-	Q&A and Discussion
 
 <h2 class="subtitle" id="submission">Submission</h2>
 
-The official workshop language is English.
+The official conference language is English.
 
-All the papers need to be written and presented in English as well.
+All accepted papers will be published in the electronic conference proceedings. 
 
-All accepted papers will be published in the conference proceedings.
+All submissions will be evaluated by a members of the Programme Committee. 
 
-<a target="_blank" href="https://docs.google.com/document/d/1AefkpZMml__fYZKhYYd0vP71FRcFShX2/edit?usp=sharing&ouid=105631173934606727224&rtpof=true&sd=true">Paper template</a>
+<a target="_blank" href="https://docs.google.com/document/d/1nhFmiXsdHNyuOikwKZ_okQK4Tzkt_Sv0/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Paper template</a>
 
-All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTPM2024>
+All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <>
 
 
 <h2 class="subtitle" id="presentation">Presentation</h2>
-
-For the presentation, you have to use the following template:
-
-<a target="_blank" href="https://docs.google.com/presentation/d/1FUAxu7Zmu-DGhmKhkLczi7BsuG9nqLyU/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Presentation template</a>
