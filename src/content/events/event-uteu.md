@@ -99,5 +99,3 @@ All submissions will be evaluated by a members of the Programme Committee.
 
 All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <>
 
-
-<h2 class="subtitle" id="presentation">Presentation</h2>
