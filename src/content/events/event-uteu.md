@@ -68,21 +68,25 @@ PhD students and early-career researchers in urban studies, spatial planning, en
 **Welcome words**
 
 **Session 1. Healthy Cities & Urban Well-Being**
+
 **Focus:** Exploring innovative approaches to create healthier, more livable urban environments that enhance quality of life, public health, and resilience in the face of climate change.
 -	Presentations
 -	Q&A and Discussion
 
 **Session 2. Spatial Planning Initiatives**
+
 **Focus:** This session explores innovative spatial planning approaches for sustainable and resilient urban development. It highlights best practices, policy frameworks, and digital tools, emphasizing interdisciplinary collaboration and participatory planning.
 -	Presentations
 -	Q&A and Discussion
 
 **Session 3. Smart Cities & Technology Integration**
+
 **Focus:** Delving into the role of digital innovation in transforming urban spaces, from smart infrastructure to data-driven decision-making.
 -	Presentations
 -	Q&A and Discussion
 
 **Session 4. EU Policy, Sustainable Urban Development & Project Management**
+
 **Focus:** Examining the intersection of policy frameworks and project management in achieving sustainable urban transformation.
 -	Presentations
 -	Q&A and Discussion
@@ -97,5 +101,5 @@ All submissions will be evaluated by a members of the Programme Committee.
 
 <a target="_blank" href="https://docs.google.com/document/d/1nhFmiXsdHNyuOikwKZ_okQK4Tzkt_Sv0/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Paper template</a>
 
-All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <>
+All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTEU2025/>
 
