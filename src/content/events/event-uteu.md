@@ -31,10 +31,10 @@ PhD students and early-career researchers in urban studies, spatial planning, en
 <h2 class="subtitle" id="terms">Terms and conditions</h2>
 
 - Conference format is <b>online.</b>
-- Registration: <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeQeZCeAcnNYSwCKh9CStBAcPSo83UVQOVCYyPyiM6W0656fg/viewform?usp=dialog">Registration link</a>   
+- Registration: <b>Close</b>   
 - Registration deadline - <b>April 15, 2025</b>
-- Satellite Paper Submissions Deadline - <b>April 14, 2025</b> 
-- Conference date - <b>April 17, 2025</b>, <b> 10 AM - 1PM CET </b>
+- Satellite Paper Submissions Deadline - ~~<b>April 14, 2025</b>~~  <b>April 30, 2025</b>
+- Conference date - <b>April 17, 2025</b>, <b> 10 AM - 2PM CET </b>
 - Participation in the conference is <b>free of charge.</b>
 - The official conference language is <b>English.</b>
 
@@ -90,6 +90,26 @@ PhD students and early-career researchers in urban studies, spatial planning, en
 **Focus:** Examining the intersection of policy frameworks and project management in achieving sustainable urban transformation.
 -	Presentations
 -	Q&A and Discussion
+
+<h2 class="subtitle" id="presentation">Presentation</h2>
+
+For the presentation, you can use the following template:
+
+<a target="_blank" href="https://docs.google.com/presentation/d/18auFZgcnpzVyIyN2WVzOUSjO90K-49-L/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Presentation template</a>
+
+<h2 class="subtitle" style="color:red" id="online">For participants</h2>
+
+<b>Time:</b> Apr 17, 2025 10:00 AM Prague Bratislava
+
+<b>Join Zoom Meeting</b>
+
+<a style="color:red" target="_blank" href="https://knu-ua.zoom.us/j/87051353875?pwd=vZ4SjCUObir7irf73fHDlJCukaHha9.1">
+    https://knu-ua.zoom.us/j/87051353875?pwd=vZ4SjCUObir7irf73fHDlJCukaHha9.1
+</a>
+
+Meeting ID: 870 5135 3875
+
+Passcode: 263807
 
 <h2 class="subtitle" id="submission">Submission</h2>
 
