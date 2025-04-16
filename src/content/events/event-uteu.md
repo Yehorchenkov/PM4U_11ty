@@ -65,6 +65,10 @@ PhD students and early-career researchers in urban studies, spatial planning, en
 
 <h2 class="subtitle" id="programme">Agenda</h2>
 
+Please find the technical program of the conference following the link below:
+
+<https://drive.google.com/file/d/1Iy0tJmZJYVaESQoWRGRQ7I8_NO1nLxh2/view?usp=sharing>
+
 **Welcome words**
 
 **Session 1. Healthy Cities & Urban Well-Being**
