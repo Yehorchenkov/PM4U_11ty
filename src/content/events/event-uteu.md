@@ -34,7 +34,7 @@ PhD students and early-career researchers in urban studies, spatial planning, en
 - Registration: <b>Closed</b>   
 - Registration deadline - <b>April 15, 2025</b>
 - Satellite Paper Submissions Deadline - ~~<b>April 14, 2025</b>~~  <b>April 30, 2025</b>
-- Conference date - <b>April 17, 2025</b>, <b> 10 AM - 2PM CET </b>
+- Conference date - <b>April 17, 2025</b>
 - Participation in the conference is <b>free of charge.</b>
 - The official conference language is <b>English.</b>
 
