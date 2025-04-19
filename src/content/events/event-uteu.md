@@ -67,7 +67,7 @@ PhD students and early-career researchers in urban studies, spatial planning, en
 
 Please find the technical program of the conference following the link below:
 
-<https://drive.google.com/file/d/1Iy0tJmZJYVaESQoWRGRQ7I8_NO1nLxh2/view?usp=sharing>
+<https://drive.google.com/file/d/1b5_U_pE9_8EEwGnYm6IqnUZJ3wA26IPh/view?usp=sharing>
 
 **Welcome words**
 
@@ -126,4 +126,12 @@ All submissions will be evaluated by a members of the Programme Committee.
 <a target="_blank" href="https://docs.google.com/document/d/1nhFmiXsdHNyuOikwKZ_okQK4Tzkt_Sv0/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Paper template</a>
 
 All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTEU2025/>
+
+<h2 class="subtitle" id="photos">Photos from the Conference</h2>
+
+<a href="/images/conference-april-2025/1.jpg" target="_blank">{% image "./conference-april-2025/1.jpg" "photo from conference" 128 %}</a>
+<a href="/images/conference-april-2025/2.jpg" target="_blank">{% image "./conference-april-2025/2.jpg" "photo from conference" 128 %}</a>
+<a href="/images/conference-april-2025/3.jpeg" target="_blank">{% image "./conference-april-2025/3.jpeg" "photo from conference" 128 %}</a>
+
+
 
