@@ -1,5 +1,5 @@
 ---
-title: Urban Transformation in the EU 
+title: Urban Transformation in the EU
 subtitle: Challenges and Opportunities
 metatitle: Conference on Urban Transformation in the EU (UTEU 2025)
 date: 2024-04-01
@@ -89,3 +89,7 @@ All papers for participation in the conference (in DOC format) should be submitt
 For the presentation, you have to use the following template:
 
 <a target="_blank" href="https://docs.google.com/presentation/d/1FUAxu7Zmu-DGhmKhkLczi7BsuG9nqLyU/edit?usp=sharing&ouid=105461736123353441958&rtpof=true&sd=true">Presentation template</a>
+
+<h2 class="subtitle" id="proceedings">Proceedings</h2>
+
+<a target="_blank" href="/media/UTEU_2025_fin.pdf">Conference proceedings</a>
