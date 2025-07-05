@@ -37,13 +37,13 @@ The primary objective is to facilitate the exchange of lessons learned, knowledg
 4. *Prof. Ľubomír Jamečný*, Slovak University of Technology in Bratislava, Slovakia
 5. *Dr. Eva Purkarthofer*,  TG “Transboundary planning and governance”, Association of European schools of planning
 5. *Dr. Alois Humer*,  TG “Transboundary planning and governance”, Association of European schools of planning
-
+6. *Prof. Yevhenia Kataieva*, Slovak University of Technology in Bratislava, Slovakia
 <h2 class="subtitle" id="programme">The programme of the Roundtable</h2>
 
 Please find the technical program of the workshop following the link below:
 
-<a target="_blank" href="https://drive.google.com/file/d/19jRwMojPHU2LISeyF6p4_MUgeF4VxcpI/view?usp=sharing">
-    https://drive.google.com/file/d/19jRwMojPHU2LISeyF6p4_MUgeF4VxcpI/view?usp=sharing
+<a target="_blank" href="https://drive.google.com/file/d/17jsWi29nY5yl2sQKRAPZVAuzBnGXtk9w/view?usp=sharing">
+    https://drive.google.com/file/d/17jsWi29nY5yl2sQKRAPZVAuzBnGXtk9w/view?usp=sharing
 </a>
 
 <p> </p>
