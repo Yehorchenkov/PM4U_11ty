@@ -1,5 +1,5 @@
 ---
-title: Urban Transformation in the EU 
+title: Urban Transformation in the EU
 subtitle: Challenges and Opportunities
 metatitle: Conference on Urban Transformation in the EU (UTEU 2025)
 date: 2025-04-17
@@ -127,11 +127,12 @@ All submissions will be evaluated by a members of the Programme Committee.
 
 All papers for participation in the conference (in DOC format) should be submitted via <b> CMT Microsoft system </b>: <https://cmt3.research.microsoft.com/UTEU2025/>
 
+<h2 class="subtitle" id="proceedings">Proceedings</h2>
+
+<a target="_blank" href="/media/UTEU_2025_fin.pdf">Conference proceedings</a>
+
 <h2 class="subtitle" id="photos">Photos from the Conference</h2>
 
 <a href="/images/conference-april-2025/1.jpg" target="_blank">{% image "./conference-april-2025/1.jpg" "photo from conference" 128 %}</a>
 <a href="/images/conference-april-2025/2.jpg" target="_blank">{% image "./conference-april-2025/2.jpg" "photo from conference" 128 %}</a>
 <a href="/images/conference-april-2025/3.jpeg" target="_blank">{% image "./conference-april-2025/3.jpeg" "photo from conference" 128 %}</a>
-
-
-
