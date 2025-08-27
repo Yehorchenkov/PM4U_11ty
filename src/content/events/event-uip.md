@@ -8,7 +8,7 @@ layout: layouts/page-toc.njk
 
 <h2 class="subtitle" id="details">Event details</h2>
 
-The event is a two-part academic lecture series hosted in Bratislava, organized within the framework of the EU-funded project “Project Management for EU Urban Transformation in the Context of Climate Change and Energy Transition” (PM4U). It focuses on Ukraine’s path toward European integration, offering a comprehensive exploration of the country’s regional development, modern history, and evolving identity amidst geopolitical challenges.
+The event is a two-part academic lecture series hosted in Bratislava, organized within the framework of the EU-funded project “Project Management for EU Urban Transformation in the Context of Climate Change and Energy Transition” (PM4U), with the contribution of the  <a href="https://aesop-planning.eu/thematic-groups/transboundary-planning-and-governance" target="_blank">AESOP Thematic Group “Transboundary Planning and Governance”</a>. It focuses on Ukraine’s path toward European integration, offering a comprehensive exploration of the country’s regional development, modern history, and evolving identity amidst geopolitical challenges.
 
 Bringing together academics, policymakers, and practitioners, the event provides a platform for analyzing Ukraine’s European trajectory in light of historical, political, and military developments, particularly in the context of Russian aggression. The lectures are aimed at fostering critical dialogue, drawing lessons for EU cohesion policies, and deepening understanding of Ukraine’s transformation.
 
@@ -33,7 +33,7 @@ This lecture examines Ukraine’s trajectory toward European integration within 
 
 **Terms and Conditions:**
 - Lecture date and time: **September 30, 2025; 4-6 PM CET (Bratislava time)**, 
-- Speaker: **Dr.Ivan Balykin**, University of Mannheim, Germany
+- Speaker: <a href="https://www.phil.uni-mannheim.de/zeitgeschichte/team/ivan-balykin/" target="_blank"> **Dr.Ivan Balykin**</a>, University of Mannheim, Germany 
 - Lecture format: **Hybrid (online and onsite)**
 - Registration: <a href="https://forms.gle/hTAh1o4Kz1ei3BzJ9" target="_blank">https://forms.gle/hTAh1o4Kz1ei3BzJ9</a>
 - Registration deadline: **September 25, 2025**
@@ -61,7 +61,7 @@ This lecture provides an in-depth look at Ukraine’s modern history since indep
 **Terms and Conditions:**
 
 - Lecture date: **October 2, 2025; 4:30-6:30 PM CET (Bratislava time)**
-- Speaker: **Dr.Ivan Balykin**, University of Mannheim, Germany
+- Speaker: <a href="https://www.phil.uni-mannheim.de/zeitgeschichte/team/ivan-balykin/" target="_blank"> **Dr.Ivan Balykin**</a>, University of Mannheim, Germany 
 - Lecture format: **Hybrid (online and onsite)**
 - Registration: <a href="https://forms.gle/Cn3MWhLFqAyBvks16" target="_blank">https://forms.gle/Cn3MWhLFqAyBvks16</a>
 - Registration deadline: **September 25, 2025**
