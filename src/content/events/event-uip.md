@@ -36,7 +36,7 @@ This lecture examines Ukraine’s trajectory toward European integration within 
 - Speaker: **Dr.Ivan Balykin**, University of Mannheim, Germany
 - Lecture format: **Hybrid (online and onsite)**
 - Registration: <a href="https://forms.gle/hTAh1o4Kz1ei3BzJ9" target="_blank">https://forms.gle/hTAh1o4Kz1ei3BzJ9</a>
-- Registration deadline: **September 22, 2025**
+- Registration deadline: **September 25, 2025**
 - Venue (onsite part): **Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43**
 - Participation: **Free of charge**
 - Official language: **English**
@@ -60,11 +60,12 @@ This lecture provides an in-depth look at Ukraine’s modern history since indep
 
 **Terms and Conditions:**
 
-- Lecture date: **To be announced**
+- Lecture date: **October 2, 2025; 4:30-6:30 PM CET (Bratislava time)**
 - Speaker: **Dr.Ivan Balykin**, University of Mannheim, Germany
 - Lecture format: **Hybrid (online and onsite)**
-- Registration: **Opening soon**
-- Registration deadline: **To be announced**
+- Registration: <a href="https://forms.gle/Cn3MWhLFqAyBvks16" target="_blank">https://forms.gle/Cn3MWhLFqAyBvks16</a>
+- Registration deadline: **September 25, 2025**
+- Venue (onsite part): **Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43**
 - Participation: **Free of charge**
 - Official language: **English**
 
