@@ -40,6 +40,7 @@ This lecture examines Ukraine’s trajectory toward European integration within 
 - Venue (onsite part): **Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43**
 - Participation: **Free of charge**
 - Official language: **English**
+- Certificate of Participation: **A certificate of participation will be provided to attendees.**
 
 <h2 class="subtitle"id="prg-committee">Lecture 2: Modern History of Ukraine: The Path to Eurointegration</h2>
 
@@ -68,6 +69,7 @@ This lecture provides an in-depth look at Ukraine’s modern history since indep
 - Venue (onsite part): **Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43**
 - Participation: **Free of charge**
 - Official language: **English**
+- Certificate of Participation: **A certificate of participation will be provided to attendees.**
 
 <h2 class="subtitle"id="prg-committee">About Speaker</h2>
 <div class="columns">
