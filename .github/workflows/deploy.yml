@@ -3,6 +3,7 @@ name: Deploy website (_site → /var/www/pm4u)
 on:
   push:
     branches: [ "main" ]   # change if needed
+    workflow_dispatch: {}
 
 concurrency:
   group: deploy-pm4u
@@ -35,7 +36,7 @@ jobs:
 
       # ---- SSH agent with private key from secrets
       - name: Load SSH key
-        uses: webfactory/ssh-agent@v0.8.1
+        uses: webfactory/ssh-agent@v0.9.1
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
