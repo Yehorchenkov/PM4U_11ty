@@ -1,0 +1,107 @@
+name: Deploy website (_site → /var/www/pm4u)
+
+on:
+  push:
+    branches: [ "main" ]   # change if needed
+
+concurrency:
+  group: deploy-pm4u
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      SSH_HOST: ${{ secrets.SSH_HOST }}
+      SSH_USER: ${{ secrets.SSH_USER }}
+      TARGET_DIR: ${{ secrets.TARGET_DIR }}   # set to /var/www/pm4u in repo secrets
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # ---- Sanity checks on repo contents
+      - name: Ensure _site exists and is not empty
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -d "_site" ]; then
+            echo "::error title=Missing _site::Directory '_site' does not exist."
+            exit 1
+          fi
+          if [ -z "$(ls -A _site)" ]; then
+            echo "::error title=Empty _site::Directory '_site' is empty."
+            exit 1
+          fi
+
+      # ---- SSH agent with private key from secrets
+      - name: Load SSH key
+        uses: webfactory/ssh-agent@v0.8.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      # ---- Strict host key checking (no man-in-the-middle)
+      - name: Add host key to known_hosts
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "${SSH_HOST:-}" ]; then
+            echo "::error title=Missing SSH_HOST::Secret SSH_HOST is not set."
+            exit 1
+          fi
+          ssh-keyscan -T 10 -H "$SSH_HOST" >> "$HOME/.ssh/known_hosts" 2>/dev/null || {
+            echo "::error title=Host key scan failed::Could not fetch SSH host key for $SSH_HOST"
+            exit 1
+          }
+
+      # ---- Remote sanity + purge previous version safely
+      - name: Purge remote target directory (safety checks)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Guardrails against destructive paths
+          if [ -z "${TARGET_DIR:-}" ]; then
+            echo "::error title=Missing TARGET_DIR::Secret TARGET_DIR is not set."
+            exit 1
+          fi
+          case "$TARGET_DIR" in
+            "/"|"/root"|"/var"|"/var/www"|"/home"|"/etc")
+              echo "::error title=Refusing to purge::TARGET_DIR '$TARGET_DIR' is too broad."
+              exit 1
+              ;;
+          esac
+
+          # Enforce the expected pm4u path (adjust/remove this if you change locations)
+          case "$TARGET_DIR" in
+            /var/www/pm4u|/var/www/pm4u/)
+              ;;
+            *)
+              echo "::error title=Unexpected target::TARGET_DIR must be /var/www/pm4u"
+              exit 1
+              ;;
+          esac
+
+          # Ensure directory exists then purge its contents (not the directory itself)
+          ssh "$SSH_USER@$SSH_HOST" "set -euo pipefail; mkdir -p \"$TARGET_DIR\"; \
+            if [ ! -d \"$TARGET_DIR\" ]; then echo 'Target is not a directory'; exit 2; fi; \
+            # Optional: keep Let's Encrypt files
+            # find \"$TARGET_DIR\" -mindepth 1 -maxdepth 1 ! -path \"$TARGET_DIR/.well-known\" -exec rm -rf -- {} +
+            find \"$TARGET_DIR\" -mindepth 1 -maxdepth 1 -exec rm -rf -- {} +"
+
+      # ---- Upload new version from _site/
+      - name: Deploy with rsync
+        shell: bash
+        run: |
+          set -euo pipefail
+          rsync -az \
+            -e "ssh -o StrictHostKeyChecking=yes" \
+            --human-readable --progress \
+            _site/ "$SSH_USER@$SSH_HOST:$TARGET_DIR/"
+
+      # ---- Post-deploy probe (optional but useful)
+      - name: Verify index is present on server
+        shell: bash
+        run: |
+          set -euo pipefail
+          ssh "$SSH_USER@$SSH_HOST" "test -f \"$TARGET_DIR/index.html\" || \
+            { echo 'index.html not found under $TARGET_DIR after deploy'; exit 3; }"
