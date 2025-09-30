@@ -36,11 +36,13 @@ This lecture examines Ukraine’s trajectory toward European integration within 
 - Speaker: <a href="https://www.phil.uni-mannheim.de/zeitgeschichte/team/ivan-balykin/" target="_blank"> **Dr.Ivan Balykin**</a>, University of Mannheim, Germany 
 - Lecture format: **Hybrid (online and onsite)**
 - Registration: **Closed**
-- Registration deadline: **September 25, 2025**
-- Venue (onsite part): **Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43**
+- Venue (onsite part):**The meeting room on the 3rd floor of Institute of Management, Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43** <a href="https://youtube.com/shorts/H0dVP21D680?feature=share" target="_blank">**(How to find the room)**</a>
 - Participation: **Free of charge**
 - Official language: **English**
 - Certificate of Participation: **A certificate of participation will be provided to attendees.**
+- Link to the online participation: <a href="https://knu-ua.zoom.us/j/82948336315?pwd=50dIYYYqatTqbuG57WgFUjsrvInrgd.1" target="_blank">https://knu-ua.zoom.us/j/82948336315?pwd=50dIYYYqatTqbuG57WgFUjsrvInrgd.1</a>
+
+
 
 <h2 class="subtitle"id="prg-committee">Lecture 2: Modern History of Ukraine: The Path to Eurointegration</h2>
 
@@ -65,11 +67,11 @@ This lecture provides an in-depth look at Ukraine’s modern history since indep
 - Speaker: <a href="https://www.phil.uni-mannheim.de/zeitgeschichte/team/ivan-balykin/" target="_blank"> **Dr.Ivan Balykin**</a>, University of Mannheim, Germany 
 - Lecture format: **Hybrid (online and onsite)**
 - Registration: **Closed**
-- Registration deadline: **September 25, 2025**
-- Venue (onsite part): **Institute of Management of Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43**
+- Venue (onsite part): **The meeting room on the 3rd floor of Institute of Management, Slovak University of Technology in Bratislava, Vazovova 5, Bratislava, 812 43** <a href="https://youtube.com/shorts/H0dVP21D680?feature=share" target="_blank">**(How to find the room)**</a>
 - Participation: **Free of charge**
 - Official language: **English**
 - Certificate of Participation: **A certificate of participation will be provided to attendees.**
+- Link to the online participation: <a href="https://knu-ua.zoom.us/j/86587450652?pwd=6AcofKkV8qk3bJIY0HUPd8rPulIcHP.1" target="_blank">https://knu-ua.zoom.us/j/86587450652?pwd=6AcofKkV8qk3bJIY0HUPd8rPulIcHP.1</a>
 
 <h2 class="subtitle"id="prg-committee">About Speaker</h2>
 <div class="columns">
