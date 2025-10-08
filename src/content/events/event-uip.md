@@ -86,4 +86,16 @@ This lecture provides an in-depth look at Ukraine’s modern history since indep
 </div>
 As an expert in the accreditation of educational programs for both the National Agency for Higher Education Quality Assurance and the State Service for Education Quality of Ukraine, Dr. Balykin contributes to the modernization of Ukraine’s higher education system. He is also known for his dynamic public speaking, strategic thinking, and commitment to educational excellence.
 
+<h2 class="subtitle"id="prg-committee"> Lecture Recordings </h2>
 
+Access the video recordings of each lecture via the links below:
+- <a href="https://youtu.be/Wta38hIw_Pk" target="_blank"> Lecture 1: Eurointegration and Regional Development of Ukraine.</a>
+- <a href="https://youtu.be/gFF_D9ySUyA" target="_blank">Lecture 2: Modern History of Ukraine: The Path to Eurointegration.</a>
+
+<h2 class="subtitle"id="prg-committee"> Photos from the Event </h2>
+
+<a href="/images/uip-september-2025/2.jpg" target="_blank">{% image "./uip-september-2025/2.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/uip-september-2025/3.jpg" target="_blank">{% image "./uip-september-2025/3.jpg" "photo from roundtable" 128 %}</a>
+<a href="/images/uip-september-2025/4.jpg" target="_blank">{% image "./uip-september-2025/4.jpg" "photo from roundtable" 170 %}</a>
+<a href="/images/uip-september-2025/5.jpg" target="_blank">{% image "./uip-september-2025/5.jpg" "photo from roundtable" 170 %}</a>
+<a href="/images/uip-september-2025/6.jpg" target="_blank">{% image "./uip-september-2025/6.jpg" "photo from roundtable" 170 %}</a>
