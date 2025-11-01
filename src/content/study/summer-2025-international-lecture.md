@@ -69,3 +69,5 @@ Here you can download <a href="https://zenodo.org/records/17339465?token=eyJhbGc
 <a href="/SILW_2025/4.jpg" target="_blank">{% image "./SILW_2025/4.jpg" "photo from Summer 2025 International Clesses Week" 200 %}</a>
 <a href="/SILW_2025/5.jpg" target="_blank">{% image "./SILW_2025/5.jpg" "photo from Summer 2025 International Clesses Week" 200 %}</a>
 
+
+

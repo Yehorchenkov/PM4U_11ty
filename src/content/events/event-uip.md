@@ -99,3 +99,11 @@ Access the video recordings of each lecture via the links below:
 <a href="/images/uip-september-2025/4.jpg" target="_blank">{% image "./uip-september-2025/4.jpg" "photo from roundtable" 170 %}</a>
 <a href="/images/uip-september-2025/5.jpg" target="_blank">{% image "./uip-september-2025/5.jpg" "photo from roundtable" 170 %}</a>
 <a href="/images/uip-september-2025/6.jpg" target="_blank">{% image "./uip-september-2025/6.jpg" "photo from roundtable" 170 %}</a>
+
+<h2 class="subtitle" id="certificates">Certificates</h2>
+
+Please find your certificate following the links: 
+
+- <a href="https://drive.google.com/drive/folders/10DBHYWpyIVnYKt2wZyoBwX8juKHHvO3D?usp=sharing" target="_blank"> **Certeficates from Lecture 1**</a>.
+
+- <a href="https://drive.google.com/drive/folders/19dUhI2CaTJeGAqA-nU85drorQUj6EjyB?usp=sharing" target="_blank"> **Certeficates from Lecture 2**</a>.
